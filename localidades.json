@@ -336,12 +336,6 @@
     "idProvincia": "06"
   },
   {
-    "nombreLocalidad": "Avellaneda",
-    "idLocalidad": "06035010",
-    "nombreProvincia": "Buenos Aires",
-    "idProvincia": "06"
-  },
-  {
     "nombreLocalidad": "Ayacucho",
     "idLocalidad": "06042010",
     "nombreProvincia": "Buenos Aires",
@@ -368,12 +362,6 @@
   {
     "nombreLocalidad": "Bahía Blanca",
     "idLocalidad": "0605601001",
-    "nombreProvincia": "Buenos Aires",
-    "idProvincia": "06"
-  },
-  {
-    "nombreLocalidad": "Bahía Blanca",
-    "idLocalidad": "06056010",
     "nombreProvincia": "Buenos Aires",
     "idProvincia": "06"
   },
@@ -696,12 +684,6 @@
     "idProvincia": "06"
   },
   {
-    "nombreLocalidad": "Berazategui",
-    "idLocalidad": "06091010",
-    "nombreProvincia": "Buenos Aires",
-    "idProvincia": "06"
-  },
-  {
     "nombreLocalidad": "Berazategui Oeste",
     "idLocalidad": "0609101002",
     "nombreProvincia": "Buenos Aires",
@@ -716,12 +698,6 @@
   {
     "nombreLocalidad": "Berisso",
     "idLocalidad": "0609801004",
-    "nombreProvincia": "Buenos Aires",
-    "idProvincia": "06"
-  },
-  {
-    "nombreLocalidad": "Berisso",
-    "idLocalidad": "06098010",
     "nombreProvincia": "Buenos Aires",
     "idProvincia": "06"
   },
@@ -866,12 +842,6 @@
   {
     "nombreLocalidad": "Canning",
     "idLocalidad": "0626001001",
-    "nombreProvincia": "Buenos Aires",
-    "idProvincia": "06"
-  },
-  {
-    "nombreLocalidad": "Canning",
-    "idLocalidad": "0627001002",
     "nombreProvincia": "Buenos Aires",
     "idProvincia": "06"
   },
@@ -1062,12 +1032,6 @@
     "idProvincia": "06"
   },
   {
-    "nombreLocalidad": "Chascomús",
-    "idLocalidad": "06218010",
-    "nombreProvincia": "Buenos Aires",
-    "idProvincia": "06"
-  },
-  {
     "nombreLocalidad": "Chasicó",
     "idLocalidad": "06819010",
     "nombreProvincia": "Buenos Aires",
@@ -1142,12 +1106,6 @@
   {
     "nombreLocalidad": "Claromecó",
     "idLocalidad": "0683302001",
-    "nombreProvincia": "Buenos Aires",
-    "idProvincia": "06"
-  },
-  {
-    "nombreLocalidad": "Claromecó",
-    "idLocalidad": "06833020",
     "nombreProvincia": "Buenos Aires",
     "idProvincia": "06"
   },
@@ -1416,12 +1374,6 @@
     "idProvincia": "06"
   },
   {
-    "nombreLocalidad": "Del Viso",
-    "idLocalidad": "0663804001",
-    "nombreProvincia": "Buenos Aires",
-    "idProvincia": "06"
-  },
-  {
     "nombreLocalidad": "Delfín Huergo",
     "idLocalidad": "06007030",
     "nombreProvincia": "Buenos Aires",
@@ -1632,12 +1584,6 @@
     "idProvincia": "06"
   },
   {
-    "nombreLocalidad": "Ensenada",
-    "idLocalidad": "06245010",
-    "nombreProvincia": "Buenos Aires",
-    "idProvincia": "06"
-  },
-  {
     "nombreLocalidad": "Erezcano",
     "idLocalidad": "06763020",
     "nombreProvincia": "Buenos Aires",
@@ -1664,12 +1610,6 @@
   {
     "nombreLocalidad": "Espartillar",
     "idLocalidad": "06007040",
-    "nombreProvincia": "Buenos Aires",
-    "idProvincia": "06"
-  },
-  {
-    "nombreLocalidad": "Espartillar",
-    "idLocalidad": "06700040",
     "nombreProvincia": "Buenos Aires",
     "idProvincia": "06"
   },
@@ -1920,12 +1860,6 @@
     "idProvincia": "06"
   },
   {
-    "nombreLocalidad": "General Juan Madariaga",
-    "idLocalidad": "06315010",
-    "nombreProvincia": "Buenos Aires",
-    "idProvincia": "06"
-  },
-  {
     "nombreLocalidad": "General La Madrid",
     "idLocalidad": "06322010",
     "nombreProvincia": "Buenos Aires",
@@ -1986,12 +1920,6 @@
     "idProvincia": "06"
   },
   {
-    "nombreLocalidad": "General Rodríguez",
-    "idLocalidad": "06364030",
-    "nombreProvincia": "Buenos Aires",
-    "idProvincia": "06"
-  },
-  {
     "nombreLocalidad": "General Rojo",
     "idLocalidad": "06763030",
     "nombreProvincia": "Buenos Aires",
@@ -2012,12 +1940,6 @@
   {
     "nombreLocalidad": "Gerli",
     "idLocalidad": "0603501005",
-    "nombreProvincia": "Buenos Aires",
-    "idProvincia": "06"
-  },
-  {
-    "nombreLocalidad": "Gerli",
-    "idLocalidad": "0643401001",
     "nombreProvincia": "Buenos Aires",
     "idProvincia": "06"
   },
@@ -2184,12 +2106,6 @@
     "idProvincia": "06"
   },
   {
-    "nombreLocalidad": "Hinojo",
-    "idLocalidad": "06595060",
-    "nombreProvincia": "Buenos Aires",
-    "idProvincia": "06"
-  },
-  {
     "nombreLocalidad": "Hortensia",
     "idLocalidad": "06147050",
     "nombreProvincia": "Buenos Aires",
@@ -2204,12 +2120,6 @@
   {
     "nombreLocalidad": "Hurlingham",
     "idLocalidad": "0640801001",
-    "nombreProvincia": "Buenos Aires",
-    "idProvincia": "06"
-  },
-  {
-    "nombreLocalidad": "Hurlingham",
-    "idLocalidad": "06408010",
     "nombreProvincia": "Buenos Aires",
     "idProvincia": "06"
   },
@@ -2336,12 +2246,6 @@
   {
     "nombreLocalidad": "José C. Paz",
     "idLocalidad": "0641201002",
-    "nombreProvincia": "Buenos Aires",
-    "idProvincia": "06"
-  },
-  {
-    "nombreLocalidad": "José C. Paz",
-    "idLocalidad": "06412010",
     "nombreProvincia": "Buenos Aires",
     "idProvincia": "06"
   },
@@ -2538,12 +2442,6 @@
     "idProvincia": "06"
   },
   {
-    "nombreLocalidad": "La Emilia",
-    "idLocalidad": "06763040",
-    "nombreProvincia": "Buenos Aires",
-    "idProvincia": "06"
-  },
-  {
     "nombreLocalidad": "La Gruta",
     "idLocalidad": "06819060",
     "nombreProvincia": "Buenos Aires",
@@ -2600,12 +2498,6 @@
   {
     "nombreLocalidad": "La Plata",
     "idLocalidad": "0644103015",
-    "nombreProvincia": "Buenos Aires",
-    "idProvincia": "06"
-  },
-  {
-    "nombreLocalidad": "La Plata",
-    "idLocalidad": "06441030",
     "nombreProvincia": "Buenos Aires",
     "idProvincia": "06"
   },
@@ -2844,20 +2736,8 @@
     "idProvincia": "06"
   },
   {
-    "nombreLocalidad": "Loma Verde",
-    "idLocalidad": "06343020",
-    "nombreProvincia": "Buenos Aires",
-    "idProvincia": "06"
-  },
-  {
     "nombreLocalidad": "Lomas de Zamora",
     "idLocalidad": "0649001003",
-    "nombreProvincia": "Buenos Aires",
-    "idProvincia": "06"
-  },
-  {
-    "nombreLocalidad": "Lomas de Zamora",
-    "idLocalidad": "06490010",
     "nombreProvincia": "Buenos Aires",
     "idProvincia": "06"
   },
@@ -2970,12 +2850,6 @@
     "idProvincia": "06"
   },
   {
-    "nombreLocalidad": "Luján",
-    "idLocalidad": "06497060",
-    "nombreProvincia": "Buenos Aires",
-    "idProvincia": "06"
-  },
-  {
     "nombreLocalidad": "Magdala",
     "idLocalidad": "06609050",
     "nombreProvincia": "Buenos Aires",
@@ -3000,26 +2874,8 @@
     "idProvincia": "06"
   },
   {
-    "nombreLocalidad": "Malvinas Argentinas",
-    "idLocalidad": "0651501006",
-    "nombreProvincia": "Buenos Aires",
-    "idProvincia": "06"
-  },
-  {
-    "nombreLocalidad": "Malvinas Argentinas",
-    "idLocalidad": "06515010",
-    "nombreProvincia": "Buenos Aires",
-    "idProvincia": "06"
-  },
-  {
     "nombreLocalidad": "Manuel B. Gonnet",
     "idLocalidad": "0644103018",
-    "nombreProvincia": "Buenos Aires",
-    "idProvincia": "06"
-  },
-  {
-    "nombreLocalidad": "Manuel B. Gonnet",
-    "idLocalidad": "06588060",
     "nombreProvincia": "Buenos Aires",
     "idProvincia": "06"
   },
@@ -3066,12 +2922,6 @@
     "idProvincia": "06"
   },
   {
-    "nombreLocalidad": "Mar Azul",
-    "idLocalidad": "06868010",
-    "nombreProvincia": "Buenos Aires",
-    "idProvincia": "06"
-  },
-  {
     "nombreLocalidad": "Mar Chiquita",
     "idLocalidad": "06518040",
     "nombreProvincia": "Buenos Aires",
@@ -3102,12 +2952,6 @@
     "idProvincia": "06"
   },
   {
-    "nombreLocalidad": "Mar de Cobo",
-    "idLocalidad": "06518050",
-    "nombreProvincia": "Buenos Aires",
-    "idProvincia": "06"
-  },
-  {
     "nombreLocalidad": "Mar de las Pampas",
     "idLocalidad": "0686801002",
     "nombreProvincia": "Buenos Aires",
@@ -3116,12 +2960,6 @@
   {
     "nombreLocalidad": "Mar del Plata",
     "idLocalidad": "0635711003",
-    "nombreProvincia": "Buenos Aires",
-    "idProvincia": "06"
-  },
-  {
-    "nombreLocalidad": "Mar del Plata",
-    "idLocalidad": "06357110",
     "nombreProvincia": "Buenos Aires",
     "idProvincia": "06"
   },
@@ -3146,12 +2984,6 @@
   {
     "nombreLocalidad": "Marcos Paz",
     "idLocalidad": "0652502002",
-    "nombreProvincia": "Buenos Aires",
-    "idProvincia": "06"
-  },
-  {
-    "nombreLocalidad": "Marcos Paz",
-    "idLocalidad": "06525020",
     "nombreProvincia": "Buenos Aires",
     "idProvincia": "06"
   },
@@ -3240,12 +3072,6 @@
     "idProvincia": "06"
   },
   {
-    "nombreLocalidad": "Mechita",
-    "idLocalidad": "06112070",
-    "nombreProvincia": "Buenos Aires",
-    "idProvincia": "06"
-  },
-  {
     "nombreLocalidad": "Mechongué",
     "idLocalidad": "06280030",
     "nombreProvincia": "Buenos Aires",
@@ -3266,12 +3092,6 @@
   {
     "nombreLocalidad": "Merlo",
     "idLocalidad": "0653901003",
-    "nombreProvincia": "Buenos Aires",
-    "idProvincia": "06"
-  },
-  {
-    "nombreLocalidad": "Merlo",
-    "idLocalidad": "06539010",
     "nombreProvincia": "Buenos Aires",
     "idProvincia": "06"
   },
@@ -3360,20 +3180,8 @@
     "idProvincia": "06"
   },
   {
-    "nombreLocalidad": "Moreno",
-    "idLocalidad": "06560010",
-    "nombreProvincia": "Buenos Aires",
-    "idProvincia": "06"
-  },
-  {
     "nombreLocalidad": "Morón",
     "idLocalidad": "0656801004",
-    "nombreProvincia": "Buenos Aires",
-    "idProvincia": "06"
-  },
-  {
-    "nombreLocalidad": "Morón",
-    "idLocalidad": "06568010",
     "nombreProvincia": "Buenos Aires",
     "idProvincia": "06"
   },
@@ -3714,20 +3522,8 @@
     "idProvincia": "06"
   },
   {
-    "nombreLocalidad": "Pilar",
-    "idLocalidad": "06638040",
-    "nombreProvincia": "Buenos Aires",
-    "idProvincia": "06"
-  },
-  {
     "nombreLocalidad": "Pinamar",
     "idLocalidad": "0664401003",
-    "nombreProvincia": "Buenos Aires",
-    "idProvincia": "06"
-  },
-  {
-    "nombreLocalidad": "Pinamar",
-    "idLocalidad": "06644010",
     "nombreProvincia": "Buenos Aires",
     "idProvincia": "06"
   },
@@ -3858,12 +3654,6 @@
     "idProvincia": "06"
   },
   {
-    "nombreLocalidad": "Punta Alta",
-    "idLocalidad": "06182030",
-    "nombreProvincia": "Buenos Aires",
-    "idProvincia": "06"
-  },
-  {
     "nombreLocalidad": "Punta Indio",
     "idLocalidad": "06655040",
     "nombreProvincia": "Buenos Aires",
@@ -3896,12 +3686,6 @@
   {
     "nombreLocalidad": "Quilmes",
     "idLocalidad": "0665801006",
-    "nombreProvincia": "Buenos Aires",
-    "idProvincia": "06"
-  },
-  {
-    "nombreLocalidad": "Quilmes",
-    "idLocalidad": "06658010",
     "nombreProvincia": "Buenos Aires",
     "idProvincia": "06"
   },
@@ -4086,12 +3870,6 @@
     "idProvincia": "06"
   },
   {
-    "nombreLocalidad": "Rojas",
-    "idLocalidad": "06686060",
-    "nombreProvincia": "Buenos Aires",
-    "idProvincia": "06"
-  },
-  {
     "nombreLocalidad": "Roosevelt",
     "idLocalidad": "06679050",
     "nombreProvincia": "Buenos Aires",
@@ -4114,12 +3892,6 @@
     "idLocalidad": "06700070",
     "nombreProvincia": "Buenos Aires",
     "idProvincia": "06"
-  },
-  {
-    "nombreLocalidad": "Saavedra",
-    "idLocalidad": "0208401002",
-    "nombreProvincia": "Ciudad Autónoma de Buenos Aires",
-    "idProvincia": "02"
   },
   {
     "nombreLocalidad": "Sáenz Peña",
@@ -4194,12 +3966,6 @@
     "idProvincia": "06"
   },
   {
-    "nombreLocalidad": "San Bernardo",
-    "idLocalidad": "06609090",
-    "nombreProvincia": "Buenos Aires",
-    "idProvincia": "06"
-  },
-  {
     "nombreLocalidad": "San Carlos de Bolívar",
     "idLocalidad": "06105060",
     "nombreProvincia": "Buenos Aires",
@@ -4248,12 +4014,6 @@
     "idProvincia": "06"
   },
   {
-    "nombreLocalidad": "San Fernando",
-    "idLocalidad": "06749010",
-    "nombreProvincia": "Buenos Aires",
-    "idProvincia": "06"
-  },
-  {
     "nombreLocalidad": "San Francisco de Bellocq",
     "idLocalidad": "06833080",
     "nombreProvincia": "Buenos Aires",
@@ -4262,12 +4022,6 @@
   {
     "nombreLocalidad": "San Francisco Solano",
     "idLocalidad": "0602801011",
-    "nombreProvincia": "Buenos Aires",
-    "idProvincia": "06"
-  },
-  {
-    "nombreLocalidad": "San Francisco Solano",
-    "idLocalidad": "0665801008",
     "nombreProvincia": "Buenos Aires",
     "idProvincia": "06"
   },
@@ -4284,20 +4038,8 @@
     "idProvincia": "06"
   },
   {
-    "nombreLocalidad": "San Isidro",
-    "idLocalidad": "06756010",
-    "nombreProvincia": "Buenos Aires",
-    "idProvincia": "06"
-  },
-  {
     "nombreLocalidad": "San José",
     "idLocalidad": "0602801012",
-    "nombreProvincia": "Buenos Aires",
-    "idProvincia": "06"
-  },
-  {
-    "nombreLocalidad": "San José",
-    "idLocalidad": "06203070",
     "nombreProvincia": "Buenos Aires",
     "idProvincia": "06"
   },
@@ -4338,12 +4080,6 @@
     "idProvincia": "06"
   },
   {
-    "nombreLocalidad": "San Miguel",
-    "idLocalidad": "06760010",
-    "nombreProvincia": "Buenos Aires",
-    "idProvincia": "06"
-  },
-  {
     "nombreLocalidad": "San Miguel del Monte",
     "idLocalidad": "06547020",
     "nombreProvincia": "Buenos Aires",
@@ -4358,12 +4094,6 @@
   {
     "nombreLocalidad": "San Nicolás de los Arroyos",
     "idLocalidad": "0676305002",
-    "nombreProvincia": "Buenos Aires",
-    "idProvincia": "06"
-  },
-  {
-    "nombreLocalidad": "San Nicolás de los Arroyos",
-    "idLocalidad": "06763050",
     "nombreProvincia": "Buenos Aires",
     "idProvincia": "06"
   },
@@ -4398,12 +4128,6 @@
     "idProvincia": "06"
   },
   {
-    "nombreLocalidad": "San Vicente",
-    "idLocalidad": "06778020",
-    "nombreProvincia": "Buenos Aires",
-    "idProvincia": "06"
-  },
-  {
     "nombreLocalidad": "Sansinena",
     "idLocalidad": "06679070",
     "nombreProvincia": "Buenos Aires",
@@ -4412,12 +4136,6 @@
   {
     "nombreLocalidad": "Santa Clara del Mar",
     "idLocalidad": "0651806005",
-    "nombreProvincia": "Buenos Aires",
-    "idProvincia": "06"
-  },
-  {
-    "nombreLocalidad": "Santa Clara del Mar",
-    "idLocalidad": "06518060",
     "nombreProvincia": "Buenos Aires",
     "idProvincia": "06"
   },
@@ -4536,20 +4254,8 @@
     "idProvincia": "06"
   },
   {
-    "nombreLocalidad": "Sierra de los Padres",
-    "idLocalidad": "06357120",
-    "nombreProvincia": "Buenos Aires",
-    "idProvincia": "06"
-  },
-  {
     "nombreLocalidad": "Sierras Bayas",
     "idLocalidad": "0659511001",
-    "nombreProvincia": "Buenos Aires",
-    "idProvincia": "06"
-  },
-  {
-    "nombreLocalidad": "Sierras Bayas",
-    "idLocalidad": "06595110",
     "nombreProvincia": "Buenos Aires",
     "idProvincia": "06"
   },
@@ -4644,12 +4350,6 @@
     "idProvincia": "06"
   },
   {
-    "nombreLocalidad": "Tigre",
-    "idLocalidad": "06805010",
-    "nombreProvincia": "Buenos Aires",
-    "idProvincia": "06"
-  },
-  {
     "nombreLocalidad": "Timote",
     "idLocalidad": "06154040",
     "nombreProvincia": "Buenos Aires",
@@ -4682,18 +4382,6 @@
   {
     "nombreLocalidad": "Tortuguitas",
     "idLocalidad": "0641201003",
-    "nombreProvincia": "Buenos Aires",
-    "idProvincia": "06"
-  },
-  {
-    "nombreLocalidad": "Tortuguitas",
-    "idLocalidad": "0651501007",
-    "nombreProvincia": "Buenos Aires",
-    "idProvincia": "06"
-  },
-  {
-    "nombreLocalidad": "Tortuguitas",
-    "idLocalidad": "0663804012",
     "nombreProvincia": "Buenos Aires",
     "idProvincia": "06"
   },
@@ -4878,12 +4566,6 @@
     "idProvincia": "06"
   },
   {
-    "nombreLocalidad": "Vicente López",
-    "idLocalidad": "06861010",
-    "nombreProvincia": "Buenos Aires",
-    "idProvincia": "06"
-  },
-  {
     "nombreLocalidad": "Victoria",
     "idLocalidad": "0674901002",
     "nombreProvincia": "Buenos Aires",
@@ -4898,12 +4580,6 @@
   {
     "nombreLocalidad": "Villa Adelina",
     "idLocalidad": "0675601006",
-    "nombreProvincia": "Buenos Aires",
-    "idProvincia": "06"
-  },
-  {
-    "nombreLocalidad": "Villa Adelina",
-    "idLocalidad": "0686101008",
     "nombreProvincia": "Buenos Aires",
     "idProvincia": "06"
   },
@@ -5328,12 +5004,6 @@
     "idProvincia": "06"
   },
   {
-    "nombreLocalidad": "Villa Manuel Pomar",
-    "idLocalidad": "06686080",
-    "nombreProvincia": "Buenos Aires",
-    "idProvincia": "06"
-  },
-  {
     "nombreLocalidad": "Villa Margarita",
     "idLocalidad": "06007100",
     "nombreProvincia": "Buenos Aires",
@@ -5640,12 +5310,6 @@
     "idProvincia": "06"
   },
   {
-    "nombreLocalidad": "Zárate",
-    "idLocalidad": "06882050",
-    "nombreProvincia": "Buenos Aires",
-    "idProvincia": "06"
-  },
-  {
     "nombreLocalidad": "Zavalía",
     "idLocalidad": "06385050",
     "nombreProvincia": "Buenos Aires",
@@ -5766,20 +5430,8 @@
     "idProvincia": "10"
   },
   {
-    "nombreLocalidad": "Casa de Piedra",
-    "idLocalidad": "10070010",
-    "nombreProvincia": "Catamarca",
-    "idProvincia": "10"
-  },
-  {
     "nombreLocalidad": "Chañar Punco",
     "idLocalidad": "1009103001",
-    "nombreProvincia": "Catamarca",
-    "idProvincia": "10"
-  },
-  {
-    "nombreLocalidad": "Chañar Punco",
-    "idLocalidad": "10091030",
     "nombreProvincia": "Catamarca",
     "idProvincia": "10"
   },
@@ -5832,12 +5484,6 @@
     "idProvincia": "10"
   },
   {
-    "nombreLocalidad": "Colpes",
-    "idLocalidad": "10084030",
-    "nombreProvincia": "Catamarca",
-    "idProvincia": "10"
-  },
-  {
     "nombreLocalidad": "Concepción",
     "idLocalidad": "10042070",
     "nombreProvincia": "Catamarca",
@@ -5862,12 +5508,6 @@
     "idProvincia": "10"
   },
   {
-    "nombreLocalidad": "Copacabana",
-    "idLocalidad": "10105050",
-    "nombreProvincia": "Catamarca",
-    "idProvincia": "10"
-  },
-  {
     "nombreLocalidad": "Corral Quemado",
     "idLocalidad": "10035040",
     "nombreProvincia": "Catamarca",
@@ -5876,12 +5516,6 @@
   {
     "nombreLocalidad": "El Alamito",
     "idLocalidad": "1002105002",
-    "nombreProvincia": "Catamarca",
-    "idProvincia": "10"
-  },
-  {
-    "nombreLocalidad": "El Alamito",
-    "idLocalidad": "10021050",
     "nombreProvincia": "Catamarca",
     "idProvincia": "10"
   },
@@ -5900,18 +5534,6 @@
   {
     "nombreLocalidad": "El Bañado",
     "idLocalidad": "1011204001",
-    "nombreProvincia": "Catamarca",
-    "idProvincia": "10"
-  },
-  {
-    "nombreLocalidad": "El Bañado",
-    "idLocalidad": "10042090",
-    "nombreProvincia": "Catamarca",
-    "idProvincia": "10"
-  },
-  {
-    "nombreLocalidad": "El Bañado",
-    "idLocalidad": "10070030",
     "nombreProvincia": "Catamarca",
     "idProvincia": "10"
   },
@@ -5964,12 +5586,6 @@
     "idProvincia": "10"
   },
   {
-    "nombreLocalidad": "El Lindero",
-    "idLocalidad": "10021060",
-    "nombreProvincia": "Catamarca",
-    "idProvincia": "10"
-  },
-  {
     "nombreLocalidad": "El Pajonal",
     "idLocalidad": "10084040",
     "nombreProvincia": "Catamarca",
@@ -5996,12 +5612,6 @@
   {
     "nombreLocalidad": "El Puesto",
     "idLocalidad": "10091060",
-    "nombreProvincia": "Catamarca",
-    "idProvincia": "10"
-  },
-  {
-    "nombreLocalidad": "El Puesto",
-    "idLocalidad": "10105090",
     "nombreProvincia": "Catamarca",
     "idProvincia": "10"
   },
@@ -6036,12 +5646,6 @@
     "idProvincia": "10"
   },
   {
-    "nombreLocalidad": "Famatanca",
-    "idLocalidad": "10091070",
-    "nombreProvincia": "Catamarca",
-    "idProvincia": "10"
-  },
-  {
     "nombreLocalidad": "Farallón Negro",
     "idLocalidad": "10035060",
     "nombreProvincia": "Catamarca",
@@ -6050,12 +5654,6 @@
   {
     "nombreLocalidad": "Fiambalá",
     "idLocalidad": "1010511001",
-    "nombreProvincia": "Catamarca",
-    "idProvincia": "10"
-  },
-  {
-    "nombreLocalidad": "Fiambalá",
-    "idLocalidad": "10105110",
     "nombreProvincia": "Catamarca",
     "idProvincia": "10"
   },
@@ -6080,12 +5678,6 @@
   {
     "nombreLocalidad": "Huaycama",
     "idLocalidad": "10007050",
-    "nombreProvincia": "Catamarca",
-    "idProvincia": "10"
-  },
-  {
-    "nombreLocalidad": "Huaycama",
-    "idLocalidad": "10112020",
     "nombreProvincia": "Catamarca",
     "idProvincia": "10"
   },
@@ -6186,18 +5778,6 @@
     "idProvincia": "10"
   },
   {
-    "nombreLocalidad": "La Puntilla",
-    "idLocalidad": "1010505002",
-    "nombreProvincia": "Catamarca",
-    "idProvincia": "10"
-  },
-  {
-    "nombreLocalidad": "La Puntilla",
-    "idLocalidad": "10035090",
-    "nombreProvincia": "Catamarca",
-    "idProvincia": "10"
-  },
-  {
     "nombreLocalidad": "La Ramadita",
     "idLocalidad": "1010511002",
     "nombreProvincia": "Catamarca",
@@ -6246,12 +5826,6 @@
     "idProvincia": "10"
   },
   {
-    "nombreLocalidad": "Las Juntas",
-    "idLocalidad": "10035100",
-    "nombreProvincia": "Catamarca",
-    "idProvincia": "10"
-  },
-  {
     "nombreLocalidad": "Las Lajas",
     "idLocalidad": "10077070",
     "nombreProvincia": "Catamarca",
@@ -6260,12 +5834,6 @@
   {
     "nombreLocalidad": "Las Mojarras",
     "idLocalidad": "1009111002",
-    "nombreProvincia": "Catamarca",
-    "idProvincia": "10"
-  },
-  {
-    "nombreLocalidad": "Las Mojarras",
-    "idLocalidad": "10091110",
     "nombreProvincia": "Catamarca",
     "idProvincia": "10"
   },
@@ -6300,12 +5868,6 @@
     "idProvincia": "10"
   },
   {
-    "nombreLocalidad": "Los Angeles",
-    "idLocalidad": "10042110",
-    "nombreProvincia": "Catamarca",
-    "idProvincia": "10"
-  },
-  {
     "nombreLocalidad": "Los Ángeles Norte",
     "idLocalidad": "1004211001",
     "nombreProvincia": "Catamarca",
@@ -6336,18 +5898,6 @@
     "idProvincia": "10"
   },
   {
-    "nombreLocalidad": "Los Nacimientos",
-    "idLocalidad": "10035120",
-    "nombreProvincia": "Catamarca",
-    "idProvincia": "10"
-  },
-  {
-    "nombreLocalidad": "Los Talas",
-    "idLocalidad": "10007100",
-    "nombreProvincia": "Catamarca",
-    "idProvincia": "10"
-  },
-  {
     "nombreLocalidad": "Los Varela",
     "idLocalidad": "10007110",
     "nombreProvincia": "Catamarca",
@@ -6362,12 +5912,6 @@
   {
     "nombreLocalidad": "Medanitos",
     "idLocalidad": "1009103003",
-    "nombreProvincia": "Catamarca",
-    "idProvincia": "10"
-  },
-  {
-    "nombreLocalidad": "Medanitos",
-    "idLocalidad": "10105130",
     "nombreProvincia": "Catamarca",
     "idProvincia": "10"
   },
@@ -6492,50 +6036,8 @@
     "idProvincia": "10"
   },
   {
-    "nombreLocalidad": "San Antonio",
-    "idLocalidad": "10070150",
-    "nombreProvincia": "Catamarca",
-    "idProvincia": "10"
-  },
-  {
-    "nombreLocalidad": "San Antonio",
-    "idLocalidad": "10077100",
-    "nombreProvincia": "Catamarca",
-    "idProvincia": "10"
-  },
-  {
     "nombreLocalidad": "San Fernando del Valle de Catamarca",
     "idLocalidad": "10049030",
-    "nombreProvincia": "Catamarca",
-    "idProvincia": "10"
-  },
-  {
-    "nombreLocalidad": "San Isidro",
-    "idLocalidad": "1011204004",
-    "nombreProvincia": "Catamarca",
-    "idProvincia": "10"
-  },
-  {
-    "nombreLocalidad": "San Isidro",
-    "idLocalidad": "10112040",
-    "nombreProvincia": "Catamarca",
-    "idProvincia": "10"
-  },
-  {
-    "nombreLocalidad": "San José",
-    "idLocalidad": "1006304006",
-    "nombreProvincia": "Catamarca",
-    "idProvincia": "10"
-  },
-  {
-    "nombreLocalidad": "San José",
-    "idLocalidad": "10063040",
-    "nombreProvincia": "Catamarca",
-    "idProvincia": "10"
-  },
-  {
-    "nombreLocalidad": "San José",
-    "idLocalidad": "10091140",
     "nombreProvincia": "Catamarca",
     "idProvincia": "10"
   },
@@ -6564,26 +6066,8 @@
     "idProvincia": "10"
   },
   {
-    "nombreLocalidad": "San Miguel",
-    "idLocalidad": "10084090",
-    "nombreProvincia": "Catamarca",
-    "idProvincia": "10"
-  },
-  {
     "nombreLocalidad": "San Pablo",
     "idLocalidad": "10042140",
-    "nombreProvincia": "Catamarca",
-    "idProvincia": "10"
-  },
-  {
-    "nombreLocalidad": "San Pedro",
-    "idLocalidad": "10042150",
-    "nombreProvincia": "Catamarca",
-    "idProvincia": "10"
-  },
-  {
-    "nombreLocalidad": "San Pedro",
-    "idLocalidad": "10098070",
     "nombreProvincia": "Catamarca",
     "idProvincia": "10"
   },
@@ -6594,26 +6078,8 @@
     "idProvincia": "10"
   },
   {
-    "nombreLocalidad": "Santa María",
-    "idLocalidad": "10091150",
-    "nombreProvincia": "Catamarca",
-    "idProvincia": "10"
-  },
-  {
-    "nombreLocalidad": "Santa Rosa",
-    "idLocalidad": "1011204005",
-    "nombreProvincia": "Catamarca",
-    "idProvincia": "10"
-  },
-  {
     "nombreLocalidad": "Saujil",
     "idLocalidad": "10084100",
-    "nombreProvincia": "Catamarca",
-    "idProvincia": "10"
-  },
-  {
-    "nombreLocalidad": "Saujil",
-    "idLocalidad": "10105160",
     "nombreProvincia": "Catamarca",
     "idProvincia": "10"
   },
@@ -6656,12 +6122,6 @@
   {
     "nombreLocalidad": "Villa de Balcozna",
     "idLocalidad": "10077110",
-    "nombreProvincia": "Catamarca",
-    "idProvincia": "10"
-  },
-  {
-    "nombreLocalidad": "Villa Dolores",
-    "idLocalidad": "1011204007",
     "nombreProvincia": "Catamarca",
     "idProvincia": "10"
   },
@@ -7038,12 +6498,6 @@
     "idProvincia": "22"
   },
   {
-    "nombreLocalidad": "Miraflores",
-    "idLocalidad": "22063070",
-    "nombreProvincia": "Chaco",
-    "idProvincia": "22"
-  },
-  {
     "nombreLocalidad": "Napalpí",
     "idLocalidad": "22168030",
     "nombreProvincia": "Chaco",
@@ -7052,12 +6506,6 @@
   {
     "nombreLocalidad": "Napenay",
     "idLocalidad": "22070040",
-    "nombreProvincia": "Chaco",
-    "idProvincia": "22"
-  },
-  {
-    "nombreLocalidad": "Nueva Pompeya",
-    "idLocalidad": "22063080",
     "nombreProvincia": "Chaco",
     "idProvincia": "22"
   },
@@ -7154,12 +6602,6 @@
   {
     "nombreLocalidad": "Samuhú",
     "idLocalidad": "22147010",
-    "nombreProvincia": "Chaco",
-    "idProvincia": "22"
-  },
-  {
-    "nombreLocalidad": "San Bernardo",
-    "idLocalidad": "22112030",
     "nombreProvincia": "Chaco",
     "idProvincia": "22"
   },
@@ -7362,12 +6804,6 @@
     "idProvincia": "26"
   },
   {
-    "nombreLocalidad": "Barrio Saavedra",
-    "idLocalidad": "2602103014",
-    "nombreProvincia": "Chubut",
-    "idProvincia": "26"
-  },
-  {
     "nombreLocalidad": "Barrio Sarmiento",
     "idLocalidad": "2602103015",
     "nombreProvincia": "Chubut",
@@ -7436,12 +6872,6 @@
   {
     "nombreLocalidad": "Comodoro Rivadavia",
     "idLocalidad": "2602103018",
-    "nombreProvincia": "Chubut",
-    "idProvincia": "26"
-  },
-  {
-    "nombreLocalidad": "Comodoro Rivadavia",
-    "idLocalidad": "26021030",
     "nombreProvincia": "Chubut",
     "idProvincia": "26"
   },
@@ -7710,12 +7140,6 @@
     "idProvincia": "26"
   },
   {
-    "nombreLocalidad": "Rawson",
-    "idLocalidad": "26077030",
-    "nombreProvincia": "Chubut",
-    "idProvincia": "26"
-  },
-  {
     "nombreLocalidad": "Reserva Area Protegida El Doradillo",
     "idLocalidad": "26007050",
     "nombreProvincia": "Chubut",
@@ -7774,300 +7198,6 @@
     "idLocalidad": "26049050",
     "nombreProvincia": "Chubut",
     "idProvincia": "26"
-  },
-  {
-    "nombreLocalidad": "Agronomía",
-    "idLocalidad": "0210501001",
-    "nombreProvincia": "Ciudad Autónoma de Buenos Aires",
-    "idProvincia": "02"
-  },
-  {
-    "nombreLocalidad": "Almagro",
-    "idLocalidad": "0203501001",
-    "nombreProvincia": "Ciudad Autónoma de Buenos Aires",
-    "idProvincia": "02"
-  },
-  {
-    "nombreLocalidad": "Balvanera",
-    "idLocalidad": "0202101001",
-    "nombreProvincia": "Ciudad Autónoma de Buenos Aires",
-    "idProvincia": "02"
-  },
-  {
-    "nombreLocalidad": "Barracas",
-    "idLocalidad": "0202801001",
-    "nombreProvincia": "Ciudad Autónoma de Buenos Aires",
-    "idProvincia": "02"
-  },
-  {
-    "nombreLocalidad": "Belgrano",
-    "idLocalidad": "0209101001",
-    "nombreProvincia": "Ciudad Autónoma de Buenos Aires",
-    "idProvincia": "02"
-  },
-  {
-    "nombreLocalidad": "Boca",
-    "idLocalidad": "0202801002",
-    "nombreProvincia": "Ciudad Autónoma de Buenos Aires",
-    "idProvincia": "02"
-  },
-  {
-    "nombreLocalidad": "Boedo",
-    "idLocalidad": "0203501002",
-    "nombreProvincia": "Ciudad Autónoma de Buenos Aires",
-    "idProvincia": "02"
-  },
-  {
-    "nombreLocalidad": "Caballito",
-    "idLocalidad": "0204201001",
-    "nombreProvincia": "Ciudad Autónoma de Buenos Aires",
-    "idProvincia": "02"
-  },
-  {
-    "nombreLocalidad": "Chacarita",
-    "idLocalidad": "0210501002",
-    "nombreProvincia": "Ciudad Autónoma de Buenos Aires",
-    "idProvincia": "02"
-  },
-  {
-    "nombreLocalidad": "Ciudad de Buenos Aires",
-    "idLocalidad": "02014010",
-    "nombreProvincia": "Ciudad Autónoma de Buenos Aires",
-    "idProvincia": "02"
-  },
-  {
-    "nombreLocalidad": "Coghlan",
-    "idLocalidad": "0208401001",
-    "nombreProvincia": "Ciudad Autónoma de Buenos Aires",
-    "idProvincia": "02"
-  },
-  {
-    "nombreLocalidad": "Colegiales",
-    "idLocalidad": "0209101002",
-    "nombreProvincia": "Ciudad Autónoma de Buenos Aires",
-    "idProvincia": "02"
-  },
-  {
-    "nombreLocalidad": "Constitución",
-    "idLocalidad": "0200701001",
-    "nombreProvincia": "Ciudad Autónoma de Buenos Aires",
-    "idProvincia": "02"
-  },
-  {
-    "nombreLocalidad": "Flores",
-    "idLocalidad": "0204901001",
-    "nombreProvincia": "Ciudad Autónoma de Buenos Aires",
-    "idProvincia": "02"
-  },
-  {
-    "nombreLocalidad": "Floresta",
-    "idLocalidad": "0207001001",
-    "nombreProvincia": "Ciudad Autónoma de Buenos Aires",
-    "idProvincia": "02"
-  },
-  {
-    "nombreLocalidad": "Liniers",
-    "idLocalidad": "0206301001",
-    "nombreProvincia": "Ciudad Autónoma de Buenos Aires",
-    "idProvincia": "02"
-  },
-  {
-    "nombreLocalidad": "Mataderos",
-    "idLocalidad": "0206301002",
-    "nombreProvincia": "Ciudad Autónoma de Buenos Aires",
-    "idProvincia": "02"
-  },
-  {
-    "nombreLocalidad": "Monserrat",
-    "idLocalidad": "0200701002",
-    "nombreProvincia": "Ciudad Autónoma de Buenos Aires",
-    "idProvincia": "02"
-  },
-  {
-    "nombreLocalidad": "Monte Castro",
-    "idLocalidad": "0207001002",
-    "nombreProvincia": "Ciudad Autónoma de Buenos Aires",
-    "idProvincia": "02"
-  },
-  {
-    "nombreLocalidad": "Nueva Pompeya",
-    "idLocalidad": "0202801003",
-    "nombreProvincia": "Ciudad Autónoma de Buenos Aires",
-    "idProvincia": "02"
-  },
-  {
-    "nombreLocalidad": "Nuñez",
-    "idLocalidad": "0209101003",
-    "nombreProvincia": "Ciudad Autónoma de Buenos Aires",
-    "idProvincia": "02"
-  },
-  {
-    "nombreLocalidad": "Palermo",
-    "idLocalidad": "0209801001",
-    "nombreProvincia": "Ciudad Autónoma de Buenos Aires",
-    "idProvincia": "02"
-  },
-  {
-    "nombreLocalidad": "Parque Avellaneda",
-    "idLocalidad": "0206301003",
-    "nombreProvincia": "Ciudad Autónoma de Buenos Aires",
-    "idProvincia": "02"
-  },
-  {
-    "nombreLocalidad": "Parque Chacabuco",
-    "idLocalidad": "0204901002",
-    "nombreProvincia": "Ciudad Autónoma de Buenos Aires",
-    "idProvincia": "02"
-  },
-  {
-    "nombreLocalidad": "Parque Chas",
-    "idLocalidad": "0210501003",
-    "nombreProvincia": "Ciudad Autónoma de Buenos Aires",
-    "idProvincia": "02"
-  },
-  {
-    "nombreLocalidad": "Parque Patricios",
-    "idLocalidad": "0202801004",
-    "nombreProvincia": "Ciudad Autónoma de Buenos Aires",
-    "idProvincia": "02"
-  },
-  {
-    "nombreLocalidad": "Paternal",
-    "idLocalidad": "0210501004",
-    "nombreProvincia": "Ciudad Autónoma de Buenos Aires",
-    "idProvincia": "02"
-  },
-  {
-    "nombreLocalidad": "Puerto Madero",
-    "idLocalidad": "0200701003",
-    "nombreProvincia": "Ciudad Autónoma de Buenos Aires",
-    "idProvincia": "02"
-  },
-  {
-    "nombreLocalidad": "Recoleta",
-    "idLocalidad": "0201401001",
-    "nombreProvincia": "Ciudad Autónoma de Buenos Aires",
-    "idProvincia": "02"
-  },
-  {
-    "nombreLocalidad": "Retiro",
-    "idLocalidad": "0200701004",
-    "nombreProvincia": "Ciudad Autónoma de Buenos Aires",
-    "idProvincia": "02"
-  },
-  {
-    "nombreLocalidad": "Saavedra",
-    "idLocalidad": "0208401002",
-    "nombreProvincia": "Ciudad Autónoma de Buenos Aires",
-    "idProvincia": "02"
-  },
-  {
-    "nombreLocalidad": "San Cristóbal",
-    "idLocalidad": "0202101002",
-    "nombreProvincia": "Ciudad Autónoma de Buenos Aires",
-    "idProvincia": "02"
-  },
-  {
-    "nombreLocalidad": "San Nicolás",
-    "idLocalidad": "0200701005",
-    "nombreProvincia": "Ciudad Autónoma de Buenos Aires",
-    "idProvincia": "02"
-  },
-  {
-    "nombreLocalidad": "San Telmo",
-    "idLocalidad": "0200701006",
-    "nombreProvincia": "Ciudad Autónoma de Buenos Aires",
-    "idProvincia": "02"
-  },
-  {
-    "nombreLocalidad": "Vélez Sarsfield",
-    "idLocalidad": "0207001003",
-    "nombreProvincia": "Ciudad Autónoma de Buenos Aires",
-    "idProvincia": "02"
-  },
-  {
-    "nombreLocalidad": "Versalles",
-    "idLocalidad": "0207001004",
-    "nombreProvincia": "Ciudad Autónoma de Buenos Aires",
-    "idProvincia": "02"
-  },
-  {
-    "nombreLocalidad": "Villa Crespo",
-    "idLocalidad": "0210501005",
-    "nombreProvincia": "Ciudad Autónoma de Buenos Aires",
-    "idProvincia": "02"
-  },
-  {
-    "nombreLocalidad": "Villa del Parque",
-    "idLocalidad": "0207701001",
-    "nombreProvincia": "Ciudad Autónoma de Buenos Aires",
-    "idProvincia": "02"
-  },
-  {
-    "nombreLocalidad": "Villa Devoto",
-    "idLocalidad": "0207701002",
-    "nombreProvincia": "Ciudad Autónoma de Buenos Aires",
-    "idProvincia": "02"
-  },
-  {
-    "nombreLocalidad": "Villa General Mitre",
-    "idLocalidad": "0207701003",
-    "nombreProvincia": "Ciudad Autónoma de Buenos Aires",
-    "idProvincia": "02"
-  },
-  {
-    "nombreLocalidad": "Villa Lugano",
-    "idLocalidad": "0205601001",
-    "nombreProvincia": "Ciudad Autónoma de Buenos Aires",
-    "idProvincia": "02"
-  },
-  {
-    "nombreLocalidad": "Villa Luro",
-    "idLocalidad": "0207001005",
-    "nombreProvincia": "Ciudad Autónoma de Buenos Aires",
-    "idProvincia": "02"
-  },
-  {
-    "nombreLocalidad": "Villa Ortúzar",
-    "idLocalidad": "0210501006",
-    "nombreProvincia": "Ciudad Autónoma de Buenos Aires",
-    "idProvincia": "02"
-  },
-  {
-    "nombreLocalidad": "Villa Pueyrredón",
-    "idLocalidad": "0208401003",
-    "nombreProvincia": "Ciudad Autónoma de Buenos Aires",
-    "idProvincia": "02"
-  },
-  {
-    "nombreLocalidad": "Villa Real",
-    "idLocalidad": "0207001006",
-    "nombreProvincia": "Ciudad Autónoma de Buenos Aires",
-    "idProvincia": "02"
-  },
-  {
-    "nombreLocalidad": "Villa Riachuelo",
-    "idLocalidad": "0205601002",
-    "nombreProvincia": "Ciudad Autónoma de Buenos Aires",
-    "idProvincia": "02"
-  },
-  {
-    "nombreLocalidad": "Villa Santa Rita",
-    "idLocalidad": "0207701004",
-    "nombreProvincia": "Ciudad Autónoma de Buenos Aires",
-    "idProvincia": "02"
-  },
-  {
-    "nombreLocalidad": "Villa Soldati",
-    "idLocalidad": "0205601003",
-    "nombreProvincia": "Ciudad Autónoma de Buenos Aires",
-    "idProvincia": "02"
-  },
-  {
-    "nombreLocalidad": "Villa Urquiza",
-    "idLocalidad": "0208401004",
-    "nombreProvincia": "Ciudad Autónoma de Buenos Aires",
-    "idProvincia": "02"
   },
   {
     "nombreLocalidad": "1° de Agosto",
@@ -8256,12 +7386,6 @@
     "idProvincia": "14"
   },
   {
-    "nombreLocalidad": "Avellaneda",
-    "idLocalidad": "14049010",
-    "nombreProvincia": "Córdoba",
-    "idProvincia": "14"
-  },
-  {
     "nombreLocalidad": "Ballesteros",
     "idLocalidad": "14182040",
     "nombreProvincia": "Córdoba",
@@ -8330,12 +7454,6 @@
   {
     "nombreLocalidad": "Bialet Massé",
     "idLocalidad": "1409102001",
-    "nombreProvincia": "Córdoba",
-    "idProvincia": "14"
-  },
-  {
-    "nombreLocalidad": "Bialet Massé",
-    "idLocalidad": "14091020",
     "nombreProvincia": "Córdoba",
     "idProvincia": "14"
   },
@@ -8724,20 +7842,8 @@
     "idProvincia": "14"
   },
   {
-    "nombreLocalidad": "Copacabana",
-    "idLocalidad": "14049040",
-    "nombreProvincia": "Córdoba",
-    "idProvincia": "14"
-  },
-  {
     "nombreLocalidad": "Córdoba",
     "idLocalidad": "1401401003",
-    "nombreProvincia": "Córdoba",
-    "idProvincia": "14"
-  },
-  {
-    "nombreLocalidad": "Córdoba",
-    "idLocalidad": "14014010",
     "nombreProvincia": "Córdoba",
     "idProvincia": "14"
   },
@@ -8892,12 +7998,6 @@
     "idProvincia": "14"
   },
   {
-    "nombreLocalidad": "El Durazno",
-    "idLocalidad": "14007055",
-    "nombreProvincia": "Córdoba",
-    "idProvincia": "14"
-  },
-  {
     "nombreLocalidad": "El Fortín",
     "idLocalidad": "14140180",
     "nombreProvincia": "Córdoba",
@@ -8922,20 +8022,8 @@
     "idProvincia": "14"
   },
   {
-    "nombreLocalidad": "El Pueblito",
-    "idLocalidad": "1413319002",
-    "nombreProvincia": "Córdoba",
-    "idProvincia": "14"
-  },
-  {
     "nombreLocalidad": "El Rastreador",
     "idLocalidad": "14056060",
-    "nombreProvincia": "Córdoba",
-    "idProvincia": "14"
-  },
-  {
-    "nombreLocalidad": "El Rodeo",
-    "idLocalidad": "14175030",
     "nombreProvincia": "Córdoba",
     "idProvincia": "14"
   },
@@ -9222,12 +8310,6 @@
     "idProvincia": "14"
   },
   {
-    "nombreLocalidad": "La Calera",
-    "idLocalidad": "14021150",
-    "nombreProvincia": "Córdoba",
-    "idProvincia": "14"
-  },
-  {
     "nombreLocalidad": "La Carlota",
     "idLocalidad": "14056100",
     "nombreProvincia": "Córdoba",
@@ -9254,12 +8336,6 @@
   {
     "nombreLocalidad": "La Cruz",
     "idLocalidad": "14007070",
-    "nombreProvincia": "Córdoba",
-    "idProvincia": "14"
-  },
-  {
-    "nombreLocalidad": "La Cumbre",
-    "idLocalidad": "14091110",
     "nombreProvincia": "Córdoba",
     "idProvincia": "14"
   },
@@ -9302,12 +8378,6 @@
   {
     "nombreLocalidad": "La Granja",
     "idLocalidad": "14021160",
-    "nombreProvincia": "Córdoba",
-    "idProvincia": "14"
-  },
-  {
-    "nombreLocalidad": "La Higuera",
-    "idLocalidad": "14028110",
     "nombreProvincia": "Córdoba",
     "idProvincia": "14"
   },
@@ -9374,18 +8444,6 @@
   {
     "nombreLocalidad": "La Posta",
     "idLocalidad": "14105120",
-    "nombreProvincia": "Córdoba",
-    "idProvincia": "14"
-  },
-  {
-    "nombreLocalidad": "La Puerta",
-    "idLocalidad": "14021170",
-    "nombreProvincia": "Córdoba",
-    "idProvincia": "14"
-  },
-  {
-    "nombreLocalidad": "La Puerta",
-    "idLocalidad": "14105130",
     "nombreProvincia": "Córdoba",
     "idProvincia": "14"
   },
@@ -9522,26 +8580,8 @@
     "idProvincia": "14"
   },
   {
-    "nombreLocalidad": "Las Mojarras",
-    "idLocalidad": "14042090",
-    "nombreProvincia": "Córdoba",
-    "idProvincia": "14"
-  },
-  {
-    "nombreLocalidad": "Las Palmas",
-    "idLocalidad": "14077020",
-    "nombreProvincia": "Córdoba",
-    "idProvincia": "14"
-  },
-  {
     "nombreLocalidad": "Las Peñas",
     "idLocalidad": "14098180",
-    "nombreProvincia": "Córdoba",
-    "idProvincia": "14"
-  },
-  {
-    "nombreLocalidad": "Las Peñas",
-    "idLocalidad": "14168060",
     "nombreProvincia": "Córdoba",
     "idProvincia": "14"
   },
@@ -9618,12 +8658,6 @@
     "idProvincia": "14"
   },
   {
-    "nombreLocalidad": "Los Cedros",
-    "idLocalidad": "14147190",
-    "nombreProvincia": "Córdoba",
-    "idProvincia": "14"
-  },
-  {
     "nombreLocalidad": "Los Cerrillos",
     "idLocalidad": "14133110",
     "nombreProvincia": "Córdoba",
@@ -9632,12 +8666,6 @@
   {
     "nombreLocalidad": "Los Chañaritos",
     "idLocalidad": "14028140",
-    "nombreProvincia": "Córdoba",
-    "idProvincia": "14"
-  },
-  {
-    "nombreLocalidad": "Los Chañaritos",
-    "idLocalidad": "14119110",
     "nombreProvincia": "Córdoba",
     "idProvincia": "14"
   },
@@ -9680,12 +8708,6 @@
   {
     "nombreLocalidad": "Los Molinos",
     "idLocalidad": "1400712001",
-    "nombreProvincia": "Córdoba",
-    "idProvincia": "14"
-  },
-  {
-    "nombreLocalidad": "Los Molinos",
-    "idLocalidad": "14007120",
     "nombreProvincia": "Córdoba",
     "idProvincia": "14"
   },
@@ -9774,12 +8796,6 @@
     "idProvincia": "14"
   },
   {
-    "nombreLocalidad": "Malvinas Argentinas",
-    "idLocalidad": "14021190",
-    "nombreProvincia": "Córdoba",
-    "idProvincia": "14"
-  },
-  {
     "nombreLocalidad": "Manfredi",
     "idLocalidad": "14119130",
     "nombreProvincia": "Córdoba",
@@ -9854,12 +8870,6 @@
   {
     "nombreLocalidad": "Mina Clavero",
     "idLocalidad": "14126090",
-    "nombreProvincia": "Córdoba",
-    "idProvincia": "14"
-  },
-  {
-    "nombreLocalidad": "Miramar",
-    "idLocalidad": "14140290",
     "nombreProvincia": "Córdoba",
     "idProvincia": "14"
   },
@@ -10050,12 +9060,6 @@
     "idProvincia": "14"
   },
   {
-    "nombreLocalidad": "Pilar",
-    "idLocalidad": "14119160",
-    "nombreProvincia": "Córdoba",
-    "idProvincia": "14"
-  },
-  {
     "nombreLocalidad": "Pincén",
     "idLocalidad": "14035090",
     "nombreProvincia": "Córdoba",
@@ -10170,12 +9174,6 @@
     "idProvincia": "14"
   },
   {
-    "nombreLocalidad": "Rincón",
-    "idLocalidad": "14119180",
-    "nombreProvincia": "Córdoba",
-    "idProvincia": "14"
-  },
-  {
     "nombreLocalidad": "Río Bamba",
     "idLocalidad": "14084060",
     "nombreProvincia": "Córdoba",
@@ -10272,20 +9270,8 @@
     "idProvincia": "14"
   },
   {
-    "nombreLocalidad": "Salsipuedes",
-    "idLocalidad": "14021250",
-    "nombreProvincia": "Córdoba",
-    "idProvincia": "14"
-  },
-  {
     "nombreLocalidad": "Sampacho",
     "idLocalidad": "14098240",
-    "nombreProvincia": "Córdoba",
-    "idProvincia": "14"
-  },
-  {
-    "nombreLocalidad": "San Agustín",
-    "idLocalidad": "14007180",
     "nombreProvincia": "Córdoba",
     "idProvincia": "14"
   },
@@ -10316,12 +9302,6 @@
   {
     "nombreLocalidad": "San Clemente",
     "idLocalidad": "14147250",
-    "nombreProvincia": "Córdoba",
-    "idProvincia": "14"
-  },
-  {
-    "nombreLocalidad": "San Esteban",
-    "idLocalidad": "14091190",
     "nombreProvincia": "Córdoba",
     "idProvincia": "14"
   },
@@ -10368,12 +9348,6 @@
     "idProvincia": "14"
   },
   {
-    "nombreLocalidad": "San José",
-    "idLocalidad": "14133180",
-    "nombreProvincia": "Córdoba",
-    "idProvincia": "14"
-  },
-  {
     "nombreLocalidad": "San José de la Dormida",
     "idLocalidad": "14175080",
     "nombreProvincia": "Córdoba",
@@ -10400,18 +9374,6 @@
   {
     "nombreLocalidad": "San Marcos Sierra",
     "idLocalidad": "14028170",
-    "nombreProvincia": "Córdoba",
-    "idProvincia": "14"
-  },
-  {
-    "nombreLocalidad": "San Martín",
-    "idLocalidad": "14126150",
-    "nombreProvincia": "Córdoba",
-    "idProvincia": "14"
-  },
-  {
-    "nombreLocalidad": "San Pedro",
-    "idLocalidad": "14126160",
     "nombreProvincia": "Córdoba",
     "idProvincia": "14"
   },
@@ -10452,12 +9414,6 @@
     "idProvincia": "14"
   },
   {
-    "nombreLocalidad": "San Vicente",
-    "idLocalidad": "14126170",
-    "nombreProvincia": "Córdoba",
-    "idProvincia": "14"
-  },
-  {
     "nombreLocalidad": "Sanabria",
     "idLocalidad": "14042120",
     "nombreProvincia": "Córdoba",
@@ -10472,12 +9428,6 @@
   {
     "nombreLocalidad": "Santa Catalina Holmberg",
     "idLocalidad": "14098260",
-    "nombreProvincia": "Córdoba",
-    "idProvincia": "14"
-  },
-  {
-    "nombreLocalidad": "Santa Elena",
-    "idLocalidad": "14112100",
     "nombreProvincia": "Córdoba",
     "idProvincia": "14"
   },
@@ -10512,12 +9462,6 @@
     "idProvincia": "14"
   },
   {
-    "nombreLocalidad": "Santa Rosa de Calamuchita",
-    "idLocalidad": "14007210",
-    "nombreProvincia": "Córdoba",
-    "idProvincia": "14"
-  },
-  {
     "nombreLocalidad": "Santa Rosa de Río Primero",
     "idLocalidad": "14105260",
     "nombreProvincia": "Córdoba",
@@ -10526,12 +9470,6 @@
   {
     "nombreLocalidad": "Santiago Temple",
     "idLocalidad": "14119200",
-    "nombreProvincia": "Córdoba",
-    "idProvincia": "14"
-  },
-  {
-    "nombreLocalidad": "Sarmiento",
-    "idLocalidad": "14168090",
     "nombreProvincia": "Córdoba",
     "idProvincia": "14"
   },
@@ -10806,20 +9744,8 @@
     "idProvincia": "14"
   },
   {
-    "nombreLocalidad": "Villa Ciudad de América",
-    "idLocalidad": "14147310",
-    "nombreProvincia": "Córdoba",
-    "idProvincia": "14"
-  },
-  {
     "nombreLocalidad": "Villa Ciudad Parque Los Reartes",
     "idLocalidad": "1400727001",
-    "nombreProvincia": "Córdoba",
-    "idProvincia": "14"
-  },
-  {
-    "nombreLocalidad": "Villa Ciudad Parque Los Reartes",
-    "idLocalidad": "14007270",
     "nombreProvincia": "Córdoba",
     "idProvincia": "14"
   },
@@ -10844,12 +9770,6 @@
   {
     "nombreLocalidad": "Villa de las Rosas",
     "idLocalidad": "1413319005",
-    "nombreProvincia": "Córdoba",
-    "idProvincia": "14"
-  },
-  {
-    "nombreLocalidad": "Villa de las Rosas",
-    "idLocalidad": "14133190",
     "nombreProvincia": "Córdoba",
     "idProvincia": "14"
   },
@@ -10884,12 +9804,6 @@
     "idProvincia": "14"
   },
   {
-    "nombreLocalidad": "Villa del Prado",
-    "idLocalidad": "14147320",
-    "nombreProvincia": "Córdoba",
-    "idProvincia": "14"
-  },
-  {
     "nombreLocalidad": "Villa del Rosario",
     "idLocalidad": "14119210",
     "nombreProvincia": "Córdoba",
@@ -10908,12 +9822,6 @@
     "idProvincia": "14"
   },
   {
-    "nombreLocalidad": "Villa Dolores",
-    "idLocalidad": "14133200",
-    "nombreProvincia": "Córdoba",
-    "idProvincia": "14"
-  },
-  {
     "nombreLocalidad": "Villa El Chacay",
     "idLocalidad": "14098300",
     "nombreProvincia": "Córdoba",
@@ -10922,12 +9830,6 @@
   {
     "nombreLocalidad": "Villa El Tala",
     "idLocalidad": "14007300",
-    "nombreProvincia": "Córdoba",
-    "idProvincia": "14"
-  },
-  {
-    "nombreLocalidad": "Villa Elisa",
-    "idLocalidad": "14063230",
     "nombreProvincia": "Córdoba",
     "idProvincia": "14"
   },
@@ -11016,18 +9918,6 @@
     "idProvincia": "14"
   },
   {
-    "nombreLocalidad": "Villa María",
-    "idLocalidad": "14042170",
-    "nombreProvincia": "Córdoba",
-    "idProvincia": "14"
-  },
-  {
-    "nombreLocalidad": "Villa Nueva",
-    "idLocalidad": "14042180",
-    "nombreProvincia": "Córdoba",
-    "idProvincia": "14"
-  },
-  {
     "nombreLocalidad": "Villa Oeste",
     "idLocalidad": "14042190",
     "nombreProvincia": "Córdoba",
@@ -11036,12 +9926,6 @@
   {
     "nombreLocalidad": "Villa Parque Santa Ana",
     "idLocalidad": "1414735002",
-    "nombreProvincia": "Córdoba",
-    "idProvincia": "14"
-  },
-  {
-    "nombreLocalidad": "Villa Parque Santa Ana",
-    "idLocalidad": "14147350",
     "nombreProvincia": "Córdoba",
     "idProvincia": "14"
   },
@@ -11112,18 +9996,6 @@
     "idProvincia": "14"
   },
   {
-    "nombreLocalidad": "Villa Sarmiento",
-    "idLocalidad": "14035130",
-    "nombreProvincia": "Córdoba",
-    "idProvincia": "14"
-  },
-  {
-    "nombreLocalidad": "Villa Sarmiento",
-    "idLocalidad": "14126210",
-    "nombreProvincia": "Córdoba",
-    "idProvincia": "14"
-  },
-  {
     "nombreLocalidad": "Villa Tulumba",
     "idLocalidad": "14175110",
     "nombreProvincia": "Córdoba",
@@ -11154,20 +10026,8 @@
     "idProvincia": "14"
   },
   {
-    "nombreLocalidad": "9 de Julio",
-    "idLocalidad": "18161030",
-    "nombreProvincia": "Corrientes",
-    "idProvincia": "18"
-  },
-  {
     "nombreLocalidad": "Alvear",
     "idLocalidad": "18056010",
-    "nombreProvincia": "Corrientes",
-    "idProvincia": "18"
-  },
-  {
-    "nombreLocalidad": "Bella Vista",
-    "idLocalidad": "18007010",
     "nombreProvincia": "Corrientes",
     "idProvincia": "18"
   },
@@ -11226,12 +10086,6 @@
     "idProvincia": "18"
   },
   {
-    "nombreLocalidad": "Concepción",
-    "idLocalidad": "18028010",
-    "nombreProvincia": "Corrientes",
-    "idProvincia": "18"
-  },
-  {
     "nombreLocalidad": "Corrientes",
     "idLocalidad": "18021020",
     "nombreProvincia": "Corrientes",
@@ -11258,12 +10112,6 @@
   {
     "nombreLocalidad": "Empedrado",
     "idLocalidad": "18042020",
-    "nombreProvincia": "Corrientes",
-    "idProvincia": "18"
-  },
-  {
-    "nombreLocalidad": "Esquina",
-    "idLocalidad": "18049010",
     "nombreProvincia": "Corrientes",
     "idProvincia": "18"
   },
@@ -11334,12 +10182,6 @@
     "idProvincia": "18"
   },
   {
-    "nombreLocalidad": "Ituzaingó",
-    "idLocalidad": "18084020",
-    "nombreProvincia": "Corrientes",
-    "idProvincia": "18"
-  },
-  {
     "nombreLocalidad": "José Rafael Gómez",
     "idLocalidad": "18168010",
     "nombreProvincia": "Corrientes",
@@ -11348,18 +10190,6 @@
   {
     "nombreLocalidad": "Juan Pujol",
     "idLocalidad": "18112030",
-    "nombreProvincia": "Corrientes",
-    "idProvincia": "18"
-  },
-  {
-    "nombreLocalidad": "La Cruz",
-    "idLocalidad": "18147030",
-    "nombreProvincia": "Corrientes",
-    "idProvincia": "18"
-  },
-  {
-    "nombreLocalidad": "Lavalle",
-    "idLocalidad": "18091030",
     "nombreProvincia": "Corrientes",
     "idProvincia": "18"
   },
@@ -11384,12 +10214,6 @@
   {
     "nombreLocalidad": "Mburucuyá",
     "idLocalidad": "18098010",
-    "nombreProvincia": "Corrientes",
-    "idProvincia": "18"
-  },
-  {
-    "nombreLocalidad": "Mercedes",
-    "idLocalidad": "18105030",
     "nombreProvincia": "Corrientes",
     "idProvincia": "18"
   },
@@ -11484,20 +10308,8 @@
     "idProvincia": "18"
   },
   {
-    "nombreLocalidad": "San Antonio",
-    "idLocalidad": "18084030",
-    "nombreProvincia": "Corrientes",
-    "idProvincia": "18"
-  },
-  {
     "nombreLocalidad": "San Carlos",
     "idLocalidad": "18084040",
-    "nombreProvincia": "Corrientes",
-    "idProvincia": "18"
-  },
-  {
-    "nombreLocalidad": "San Cayetano",
-    "idLocalidad": "18021050",
     "nombreProvincia": "Corrientes",
     "idProvincia": "18"
   },
@@ -11508,44 +10320,14 @@
     "idProvincia": "18"
   },
   {
-    "nombreLocalidad": "San Lorenzo",
-    "idLocalidad": "18126020",
-    "nombreProvincia": "Corrientes",
-    "idProvincia": "18"
-  },
-  {
     "nombreLocalidad": "San Luis del Palmar",
     "idLocalidad": "18140010",
     "nombreProvincia": "Corrientes",
     "idProvincia": "18"
   },
   {
-    "nombreLocalidad": "San Miguel",
-    "idLocalidad": "18154020",
-    "nombreProvincia": "Corrientes",
-    "idProvincia": "18"
-  },
-  {
-    "nombreLocalidad": "San Roque",
-    "idLocalidad": "18161050",
-    "nombreProvincia": "Corrientes",
-    "idProvincia": "18"
-  },
-  {
     "nombreLocalidad": "Santa Ana",
     "idLocalidad": "18133040",
-    "nombreProvincia": "Corrientes",
-    "idProvincia": "18"
-  },
-  {
-    "nombreLocalidad": "Santa Lucía",
-    "idLocalidad": "18091040",
-    "nombreProvincia": "Corrientes",
-    "idProvincia": "18"
-  },
-  {
-    "nombreLocalidad": "Santa Rosa",
-    "idLocalidad": "18028020",
     "nombreProvincia": "Corrientes",
     "idProvincia": "18"
   },
@@ -11682,20 +10464,8 @@
     "idProvincia": "30"
   },
   {
-    "nombreLocalidad": "Aldea San Juan",
-    "idLocalidad": "30084015",
-    "nombreProvincia": "Entre Ríos",
-    "idProvincia": "30"
-  },
-  {
     "nombreLocalidad": "Aldea San Rafael",
     "idLocalidad": "30084020",
-    "nombreProvincia": "Entre Ríos",
-    "idProvincia": "30"
-  },
-  {
-    "nombreLocalidad": "Aldea Santa María",
-    "idLocalidad": "30084030",
     "nombreProvincia": "Entre Ríos",
     "idProvincia": "30"
   },
@@ -11772,12 +10542,6 @@
     "idProvincia": "30"
   },
   {
-    "nombreLocalidad": "Caseros",
-    "idLocalidad": "30098020",
-    "nombreProvincia": "Entre Ríos",
-    "idProvincia": "30"
-  },
-  {
     "nombreLocalidad": "Ceibas",
     "idLocalidad": "30063020",
     "nombreProvincia": "Entre Ríos",
@@ -11790,12 +10554,6 @@
     "idProvincia": "30"
   },
   {
-    "nombreLocalidad": "Cerrito",
-    "idLocalidad": "30084050",
-    "nombreProvincia": "Entre Ríos",
-    "idProvincia": "30"
-  },
-  {
     "nombreLocalidad": "Chajarí",
     "idLocalidad": "30028010",
     "nombreProvincia": "Entre Ríos",
@@ -11804,12 +10562,6 @@
   {
     "nombreLocalidad": "Clodomiro Ledesma",
     "idLocalidad": "30015020",
-    "nombreProvincia": "Entre Ríos",
-    "idProvincia": "30"
-  },
-  {
-    "nombreLocalidad": "Colón",
-    "idLocalidad": "30008020",
     "nombreProvincia": "Entre Ríos",
     "idProvincia": "30"
   },
@@ -11886,12 +10638,6 @@
     "idProvincia": "30"
   },
   {
-    "nombreLocalidad": "Concordia",
-    "idLocalidad": "30015060",
-    "nombreProvincia": "Entre Ríos",
-    "idProvincia": "30"
-  },
-  {
     "nombreLocalidad": "Conscripto Bernardi",
     "idLocalidad": "30035010",
     "nombreProvincia": "Entre Ríos",
@@ -11906,12 +10652,6 @@
   {
     "nombreLocalidad": "Diamante",
     "idLocalidad": "3002108001",
-    "nombreProvincia": "Entre Ríos",
-    "idProvincia": "30"
-  },
-  {
-    "nombreLocalidad": "Diamante",
-    "idLocalidad": "30021080",
     "nombreProvincia": "Entre Ríos",
     "idProvincia": "30"
   },
@@ -12050,12 +10790,6 @@
   {
     "nombreLocalidad": "General Almada",
     "idLocalidad": "30056050",
-    "nombreProvincia": "Entre Ríos",
-    "idProvincia": "30"
-  },
-  {
-    "nombreLocalidad": "General Alvear",
-    "idLocalidad": "30021100",
     "nombreProvincia": "Entre Ríos",
     "idProvincia": "30"
   },
@@ -12204,12 +10938,6 @@
     "idProvincia": "30"
   },
   {
-    "nombreLocalidad": "La Paz",
-    "idLocalidad": "30070040",
-    "nombreProvincia": "Entre Ríos",
-    "idProvincia": "30"
-  },
-  {
     "nombreLocalidad": "La Picada",
     "idLocalidad": "30084120",
     "nombreProvincia": "Entre Ríos",
@@ -12236,12 +10964,6 @@
   {
     "nombreLocalidad": "Las Moscas",
     "idLocalidad": "30098070",
-    "nombreProvincia": "Entre Ríos",
-    "idProvincia": "30"
-  },
-  {
-    "nombreLocalidad": "Las Tejas",
-    "idLocalidad": "3001506003",
     "nombreProvincia": "Entre Ríos",
     "idProvincia": "30"
   },
@@ -12284,12 +11006,6 @@
   {
     "nombreLocalidad": "María Grande",
     "idLocalidad": "30084140",
-    "nombreProvincia": "Entre Ríos",
-    "idProvincia": "30"
-  },
-  {
-    "nombreLocalidad": "Médanos",
-    "idLocalidad": "30063040",
     "nombreProvincia": "Entre Ríos",
     "idProvincia": "30"
   },
@@ -12462,26 +11178,8 @@
     "idProvincia": "30"
   },
   {
-    "nombreLocalidad": "San José",
-    "idLocalidad": "3000809003",
-    "nombreProvincia": "Entre Ríos",
-    "idProvincia": "30"
-  },
-  {
-    "nombreLocalidad": "San José",
-    "idLocalidad": "30008090",
-    "nombreProvincia": "Entre Ríos",
-    "idProvincia": "30"
-  },
-  {
     "nombreLocalidad": "San José de Feliciano",
     "idLocalidad": "30042010",
-    "nombreProvincia": "Entre Ríos",
-    "idProvincia": "30"
-  },
-  {
-    "nombreLocalidad": "San Pedro",
-    "idLocalidad": "30028100",
     "nombreProvincia": "Entre Ríos",
     "idProvincia": "30"
   },
@@ -12504,20 +11202,8 @@
     "idProvincia": "30"
   },
   {
-    "nombreLocalidad": "Santa Ana",
-    "idLocalidad": "30028110",
-    "nombreProvincia": "Entre Ríos",
-    "idProvincia": "30"
-  },
-  {
     "nombreLocalidad": "Santa Anita",
     "idLocalidad": "30098120",
-    "nombreProvincia": "Entre Ríos",
-    "idProvincia": "30"
-  },
-  {
-    "nombreLocalidad": "Santa Elena",
-    "idLocalidad": "30070080",
     "nombreProvincia": "Entre Ríos",
     "idProvincia": "30"
   },
@@ -12594,12 +11280,6 @@
     "idProvincia": "30"
   },
   {
-    "nombreLocalidad": "Victoria",
-    "idLocalidad": "30105060",
-    "nombreProvincia": "Entre Ríos",
-    "idProvincia": "30"
-  },
-  {
     "nombreLocalidad": "Villa Adela",
     "idLocalidad": "3001506002",
     "nombreProvincia": "Entre Ríos",
@@ -12612,26 +11292,8 @@
     "idProvincia": "30"
   },
   {
-    "nombreLocalidad": "Villa del Rosario",
-    "idLocalidad": "30028120",
-    "nombreProvincia": "Entre Ríos",
-    "idProvincia": "30"
-  },
-  {
     "nombreLocalidad": "Villa Domínguez",
     "idLocalidad": "30113070",
-    "nombreProvincia": "Entre Ríos",
-    "idProvincia": "30"
-  },
-  {
-    "nombreLocalidad": "Villa Elisa",
-    "idLocalidad": "30008110",
-    "nombreProvincia": "Entre Ríos",
-    "idProvincia": "30"
-  },
-  {
-    "nombreLocalidad": "Villa Fontana",
-    "idLocalidad": "30084280",
     "nombreProvincia": "Entre Ríos",
     "idProvincia": "30"
   },
@@ -12644,12 +11306,6 @@
   {
     "nombreLocalidad": "Villa Libertador San Martín",
     "idLocalidad": "3002115002",
-    "nombreProvincia": "Entre Ríos",
-    "idProvincia": "30"
-  },
-  {
-    "nombreLocalidad": "Villa Libertador San Martín",
-    "idLocalidad": "30021150",
     "nombreProvincia": "Entre Ríos",
     "idProvincia": "30"
   },
@@ -12674,12 +11330,6 @@
   {
     "nombreLocalidad": "Villa San Marcial (Est. Gobernador Urquiza)",
     "idLocalidad": "30098150",
-    "nombreProvincia": "Entre Ríos",
-    "idProvincia": "30"
-  },
-  {
-    "nombreLocalidad": "Villa Urquiza",
-    "idLocalidad": "30084300",
     "nombreProvincia": "Entre Ríos",
     "idProvincia": "30"
   },
@@ -12710,18 +11360,6 @@
   {
     "nombreLocalidad": "Bartolomé de las Casas",
     "idLocalidad": "3403501001",
-    "nombreProvincia": "Formosa",
-    "idProvincia": "34"
-  },
-  {
-    "nombreLocalidad": "Bartolomé de las Casas",
-    "idLocalidad": "34035010",
-    "nombreProvincia": "Formosa",
-    "idProvincia": "34"
-  },
-  {
-    "nombreLocalidad": "Buena Vista",
-    "idLocalidad": "34042010",
     "nombreProvincia": "Formosa",
     "idProvincia": "34"
   },
@@ -12758,18 +11396,6 @@
   {
     "nombreLocalidad": "Comunidad Aborigen Bartolomé de las Casas",
     "idLocalidad": "3403501002",
-    "nombreProvincia": "Formosa",
-    "idProvincia": "34"
-  },
-  {
-    "nombreLocalidad": "El Colorado",
-    "idLocalidad": "34056020",
-    "nombreProvincia": "Formosa",
-    "idProvincia": "34"
-  },
-  {
-    "nombreLocalidad": "El Espinillo",
-    "idLocalidad": "34042020",
     "nombreProvincia": "Formosa",
     "idProvincia": "34"
   },
@@ -12866,18 +11492,6 @@
   {
     "nombreLocalidad": "Juan G. Bazán",
     "idLocalidad": "34035090",
-    "nombreProvincia": "Formosa",
-    "idProvincia": "34"
-  },
-  {
-    "nombreLocalidad": "La Rinconada",
-    "idLocalidad": "34007007",
-    "nombreProvincia": "Formosa",
-    "idProvincia": "34"
-  },
-  {
-    "nombreLocalidad": "Laguna Blanca",
-    "idLocalidad": "34049020",
     "nombreProvincia": "Formosa",
     "idProvincia": "34"
   },
@@ -13104,12 +11718,6 @@
     "idProvincia": "38"
   },
   {
-    "nombreLocalidad": "Aguas Calientes",
-    "idLocalidad": "38014010",
-    "nombreProvincia": "Jujuy",
-    "idProvincia": "38"
-  },
-  {
     "nombreLocalidad": "Aparzo",
     "idLocalidad": "38028003",
     "nombreProvincia": "Jujuy",
@@ -13266,12 +11874,6 @@
     "idProvincia": "38"
   },
   {
-    "nombreLocalidad": "Colonia San José",
-    "idLocalidad": "38094010",
-    "nombreProvincia": "Jujuy",
-    "idProvincia": "38"
-  },
-  {
     "nombreLocalidad": "Coranzuli",
     "idLocalidad": "38084020",
     "nombreProvincia": "Jujuy",
@@ -13350,20 +11952,8 @@
     "idProvincia": "38"
   },
   {
-    "nombreLocalidad": "El Puesto",
-    "idLocalidad": "38063050",
-    "nombreProvincia": "Jujuy",
-    "idProvincia": "38"
-  },
-  {
     "nombreLocalidad": "El Quemado",
     "idLocalidad": "38063060",
-    "nombreProvincia": "Jujuy",
-    "idProvincia": "38"
-  },
-  {
-    "nombreLocalidad": "El Talar",
-    "idLocalidad": "38070030",
     "nombreProvincia": "Jujuy",
     "idProvincia": "38"
   },
@@ -13488,20 +12078,8 @@
     "idProvincia": "38"
   },
   {
-    "nombreLocalidad": "Libertad",
-    "idLocalidad": "38035070",
-    "nombreProvincia": "Jujuy",
-    "idProvincia": "38"
-  },
-  {
     "nombreLocalidad": "Libertador General San Martín",
     "idLocalidad": "3803508001",
-    "nombreProvincia": "Jujuy",
-    "idProvincia": "38"
-  },
-  {
-    "nombreLocalidad": "Libertador General San Martín",
-    "idLocalidad": "38035080",
     "nombreProvincia": "Jujuy",
     "idProvincia": "38"
   },
@@ -13562,12 +12140,6 @@
   {
     "nombreLocalidad": "Maíz Negro",
     "idLocalidad": "38035090",
-    "nombreProvincia": "Jujuy",
-    "idProvincia": "38"
-  },
-  {
-    "nombreLocalidad": "Manantiales",
-    "idLocalidad": "38014060",
     "nombreProvincia": "Jujuy",
     "idProvincia": "38"
   },
@@ -13650,12 +12222,6 @@
     "idProvincia": "38"
   },
   {
-    "nombreLocalidad": "Palma Sola",
-    "idLocalidad": "38070040",
-    "nombreProvincia": "Jujuy",
-    "idProvincia": "38"
-  },
-  {
     "nombreLocalidad": "Palos Blancos",
     "idLocalidad": "38063110",
     "nombreProvincia": "Jujuy",
@@ -13664,18 +12230,6 @@
   {
     "nombreLocalidad": "Palpalá",
     "idLocalidad": "3804204001",
-    "nombreProvincia": "Jujuy",
-    "idProvincia": "38"
-  },
-  {
-    "nombreLocalidad": "Palpalá",
-    "idLocalidad": "38042040",
-    "nombreProvincia": "Jujuy",
-    "idProvincia": "38"
-  },
-  {
-    "nombreLocalidad": "Pampa Blanca",
-    "idLocalidad": "38014080",
     "nombreProvincia": "Jujuy",
     "idProvincia": "38"
   },
@@ -13700,12 +12254,6 @@
   {
     "nombreLocalidad": "Perico",
     "idLocalidad": "38014090",
-    "nombreProvincia": "Jujuy",
-    "idProvincia": "38"
-  },
-  {
-    "nombreLocalidad": "Piedritas",
-    "idLocalidad": "38063130",
     "nombreProvincia": "Jujuy",
     "idProvincia": "38"
   },
@@ -13812,38 +12360,8 @@
     "idProvincia": "38"
   },
   {
-    "nombreLocalidad": "San Antonio",
-    "idLocalidad": "38056030",
-    "nombreProvincia": "Jujuy",
-    "idProvincia": "38"
-  },
-  {
-    "nombreLocalidad": "San Antonio",
-    "idLocalidad": "38063160",
-    "nombreProvincia": "Jujuy",
-    "idProvincia": "38"
-  },
-  {
-    "nombreLocalidad": "San Francisco",
-    "idLocalidad": "38105030",
-    "nombreProvincia": "Jujuy",
-    "idProvincia": "38"
-  },
-  {
     "nombreLocalidad": "San Francisco de Alfarcito",
     "idLocalidad": "38007080",
-    "nombreProvincia": "Jujuy",
-    "idProvincia": "38"
-  },
-  {
-    "nombreLocalidad": "San Isidro",
-    "idLocalidad": "38014110",
-    "nombreProvincia": "Jujuy",
-    "idProvincia": "38"
-  },
-  {
-    "nombreLocalidad": "San José",
-    "idLocalidad": "3811208001",
     "nombreProvincia": "Jujuy",
     "idProvincia": "38"
   },
@@ -13878,32 +12396,14 @@
     "idProvincia": "38"
   },
   {
-    "nombreLocalidad": "San Pedro",
-    "idLocalidad": "38063180",
-    "nombreProvincia": "Jujuy",
-    "idProvincia": "38"
-  },
-  {
     "nombreLocalidad": "San Salvador de Jujuy",
     "idLocalidad": "38021060",
     "nombreProvincia": "Jujuy",
     "idProvincia": "38"
   },
   {
-    "nombreLocalidad": "Santa Ana",
-    "idLocalidad": "38105040",
-    "nombreProvincia": "Jujuy",
-    "idProvincia": "38"
-  },
-  {
     "nombreLocalidad": "Santa Ana de la Puna",
     "idLocalidad": "38007085",
-    "nombreProvincia": "Jujuy",
-    "idProvincia": "38"
-  },
-  {
-    "nombreLocalidad": "Santa Catalina",
-    "idLocalidad": "38077100",
     "nombreProvincia": "Jujuy",
     "idProvincia": "38"
   },
@@ -14004,20 +12504,8 @@
     "idProvincia": "38"
   },
   {
-    "nombreLocalidad": "Yala",
-    "idLocalidad": "38021070",
-    "nombreProvincia": "Jujuy",
-    "idProvincia": "38"
-  },
-  {
     "nombreLocalidad": "Yavi",
     "idLocalidad": "3811208002",
-    "nombreProvincia": "Jujuy",
-    "idProvincia": "38"
-  },
-  {
-    "nombreLocalidad": "Yavi",
-    "idLocalidad": "38112080",
     "nombreProvincia": "Jujuy",
     "idProvincia": "38"
   },
@@ -14038,12 +12526,6 @@
     "idLocalidad": "38035110",
     "nombreProvincia": "Jujuy",
     "idProvincia": "38"
-  },
-  {
-    "nombreLocalidad": "25 de Mayo",
-    "idLocalidad": "42112020",
-    "nombreProvincia": "La Pampa",
-    "idProvincia": "42"
   },
   {
     "nombreLocalidad": "Abramo",
@@ -14136,12 +12618,6 @@
     "idProvincia": "42"
   },
   {
-    "nombreLocalidad": "Casa de Piedra",
-    "idLocalidad": "42112005",
-    "nombreProvincia": "La Pampa",
-    "idProvincia": "42"
-  },
-  {
     "nombreLocalidad": "Catriló",
     "idLocalidad": "42028010",
     "nombreProvincia": "La Pampa",
@@ -14162,18 +12638,6 @@
   {
     "nombreLocalidad": "Colonia Barón",
     "idLocalidad": "42119010",
-    "nombreProvincia": "La Pampa",
-    "idProvincia": "42"
-  },
-  {
-    "nombreLocalidad": "Colonia San José",
-    "idLocalidad": "42119020",
-    "nombreProvincia": "La Pampa",
-    "idProvincia": "42"
-  },
-  {
-    "nombreLocalidad": "Colonia Santa María",
-    "idLocalidad": "42154030",
     "nombreProvincia": "La Pampa",
     "idProvincia": "42"
   },
@@ -14246,12 +12710,6 @@
   {
     "nombreLocalidad": "General Pico",
     "idLocalidad": "42105030",
-    "nombreProvincia": "La Pampa",
-    "idProvincia": "42"
-  },
-  {
-    "nombreLocalidad": "General San Martín",
-    "idLocalidad": "42077030",
     "nombreProvincia": "La Pampa",
     "idProvincia": "42"
   },
@@ -14484,18 +12942,6 @@
     "idProvincia": "42"
   },
   {
-    "nombreLocalidad": "Santa Rosa",
-    "idLocalidad": "42021020",
-    "nombreProvincia": "La Pampa",
-    "idProvincia": "42"
-  },
-  {
-    "nombreLocalidad": "Santa Teresa",
-    "idLocalidad": "42070050",
-    "nombreProvincia": "La Pampa",
-    "idProvincia": "42"
-  },
-  {
     "nombreLocalidad": "Sarah",
     "idLocalidad": "42056050",
     "nombreProvincia": "La Pampa",
@@ -14586,12 +13032,6 @@
     "idProvincia": "46"
   },
   {
-    "nombreLocalidad": "Aimogasta",
-    "idLocalidad": "46007010",
-    "nombreProvincia": "La Rioja",
-    "idProvincia": "46"
-  },
-  {
     "nombreLocalidad": "Alpasinche",
     "idLocalidad": "4611901001",
     "nombreProvincia": "La Rioja",
@@ -14642,12 +13082,6 @@
   {
     "nombreLocalidad": "Angulos",
     "idLocalidad": "46049020",
-    "nombreProvincia": "La Rioja",
-    "idProvincia": "46"
-  },
-  {
-    "nombreLocalidad": "Anillaco",
-    "idLocalidad": "46021020",
     "nombreProvincia": "La Rioja",
     "idProvincia": "46"
   },
@@ -14730,12 +13164,6 @@
     "idProvincia": "46"
   },
   {
-    "nombreLocalidad": "Chilecito",
-    "idLocalidad": "46042010",
-    "nombreProvincia": "La Rioja",
-    "idProvincia": "46"
-  },
-  {
     "nombreLocalidad": "Chuquis",
     "idLocalidad": "46021040",
     "nombreProvincia": "La Rioja",
@@ -14802,12 +13230,6 @@
     "idProvincia": "46"
   },
   {
-    "nombreLocalidad": "Guandacol",
-    "idLocalidad": "46028020",
-    "nombreProvincia": "La Rioja",
-    "idProvincia": "46"
-  },
-  {
     "nombreLocalidad": "Jagüé",
     "idLocalidad": "46098010",
     "nombreProvincia": "La Rioja",
@@ -14820,12 +13242,6 @@
     "idProvincia": "46"
   },
   {
-    "nombreLocalidad": "La Puntilla",
-    "idLocalidad": "4604201003",
-    "nombreProvincia": "La Rioja",
-    "idProvincia": "46"
-  },
-  {
     "nombreLocalidad": "La Rioja",
     "idLocalidad": "46014010",
     "nombreProvincia": "La Rioja",
@@ -14834,18 +13250,6 @@
   {
     "nombreLocalidad": "Las Talas",
     "idLocalidad": "4611901006",
-    "nombreProvincia": "La Rioja",
-    "idProvincia": "46"
-  },
-  {
-    "nombreLocalidad": "Loma Blanca",
-    "idLocalidad": "46063030",
-    "nombreProvincia": "La Rioja",
-    "idProvincia": "46"
-  },
-  {
-    "nombreLocalidad": "Los Molinos",
-    "idLocalidad": "46021050",
     "nombreProvincia": "La Rioja",
     "idProvincia": "46"
   },
@@ -14982,56 +13386,14 @@
     "idProvincia": "46"
   },
   {
-    "nombreLocalidad": "San Antonio",
-    "idLocalidad": "4600701003",
-    "nombreProvincia": "La Rioja",
-    "idProvincia": "46"
-  },
-  {
-    "nombreLocalidad": "San Antonio",
-    "idLocalidad": "46070040",
-    "nombreProvincia": "La Rioja",
-    "idProvincia": "46"
-  },
-  {
     "nombreLocalidad": "San Blas",
     "idLocalidad": "4611901009",
     "nombreProvincia": "La Rioja",
     "idProvincia": "46"
   },
   {
-    "nombreLocalidad": "San Miguel",
-    "idLocalidad": "4604201005",
-    "nombreProvincia": "La Rioja",
-    "idProvincia": "46"
-  },
-  {
-    "nombreLocalidad": "San Nicolás",
-    "idLocalidad": "46042100",
-    "nombreProvincia": "La Rioja",
-    "idProvincia": "46"
-  },
-  {
-    "nombreLocalidad": "San Pedro",
-    "idLocalidad": "46021070",
-    "nombreProvincia": "La Rioja",
-    "idProvincia": "46"
-  },
-  {
     "nombreLocalidad": "Sañogasta",
     "idLocalidad": "46042120",
-    "nombreProvincia": "La Rioja",
-    "idProvincia": "46"
-  },
-  {
-    "nombreLocalidad": "Santa Clara",
-    "idLocalidad": "4602802002",
-    "nombreProvincia": "La Rioja",
-    "idProvincia": "46"
-  },
-  {
-    "nombreLocalidad": "Santa Cruz",
-    "idLocalidad": "46049110",
     "nombreProvincia": "La Rioja",
     "idProvincia": "46"
   },
@@ -15050,12 +13412,6 @@
   {
     "nombreLocalidad": "Santa Vera Cruz",
     "idLocalidad": "46021080",
-    "nombreProvincia": "La Rioja",
-    "idProvincia": "46"
-  },
-  {
-    "nombreLocalidad": "Santo Domingo",
-    "idLocalidad": "46049120",
     "nombreProvincia": "La Rioja",
     "idProvincia": "46"
   },
@@ -15138,12 +13494,6 @@
     "idProvincia": "46"
   },
   {
-    "nombreLocalidad": "Villa Unión",
-    "idLocalidad": "46028050",
-    "nombreProvincia": "La Rioja",
-    "idProvincia": "46"
-  },
-  {
     "nombreLocalidad": "10ma Sección",
     "idLocalidad": "5000701010",
     "nombreProvincia": "Mendoza",
@@ -15158,12 +13508,6 @@
   {
     "nombreLocalidad": "1ra Sección",
     "idLocalidad": "5000701001",
-    "nombreProvincia": "Mendoza",
-    "idProvincia": "50"
-  },
-  {
-    "nombreLocalidad": "25 de Mayo",
-    "idLocalidad": "50105220",
     "nombreProvincia": "Mendoza",
     "idProvincia": "50"
   },
@@ -15402,12 +13746,6 @@
     "idProvincia": "50"
   },
   {
-    "nombreLocalidad": "Barrio San Cayetano",
-    "idLocalidad": "50119010",
-    "nombreProvincia": "Mendoza",
-    "idProvincia": "50"
-  },
-  {
     "nombreLocalidad": "Barrio Virgen del Rosario",
     "idLocalidad": "50056075",
     "nombreProvincia": "Mendoza",
@@ -15488,18 +13826,6 @@
   {
     "nombreLocalidad": "Chapanay",
     "idLocalidad": "50098060",
-    "nombreProvincia": "Mendoza",
-    "idProvincia": "50"
-  },
-  {
-    "nombreLocalidad": "Chilecito",
-    "idLocalidad": "50091020",
-    "nombreProvincia": "Mendoza",
-    "idProvincia": "50"
-  },
-  {
-    "nombreLocalidad": "Chivilcoy",
-    "idLocalidad": "50098070",
     "nombreProvincia": "Mendoza",
     "idProvincia": "50"
   },
@@ -15630,12 +13956,6 @@
     "idProvincia": "50"
   },
   {
-    "nombreLocalidad": "El Manzano",
-    "idLocalidad": "50119040",
-    "nombreProvincia": "Mendoza",
-    "idProvincia": "50"
-  },
-  {
     "nombreLocalidad": "El Mirador",
     "idLocalidad": "50084040",
     "nombreProvincia": "Mendoza",
@@ -15672,12 +13992,6 @@
     "idProvincia": "50"
   },
   {
-    "nombreLocalidad": "El Ramblón",
-    "idLocalidad": "50098077",
-    "nombreProvincia": "Mendoza",
-    "idProvincia": "50"
-  },
-  {
     "nombreLocalidad": "El Resguardo",
     "idLocalidad": "5004905008",
     "nombreProvincia": "Mendoza",
@@ -15698,12 +14012,6 @@
   {
     "nombreLocalidad": "El Sosneado",
     "idLocalidad": "50105080",
-    "nombreProvincia": "Mendoza",
-    "idProvincia": "50"
-  },
-  {
-    "nombreLocalidad": "El Tropezón",
-    "idLocalidad": "50105090",
     "nombreProvincia": "Mendoza",
     "idProvincia": "50"
   },
@@ -15734,18 +14042,6 @@
   {
     "nombreLocalidad": "Fray Luis Beltrán",
     "idLocalidad": "50070050",
-    "nombreProvincia": "Mendoza",
-    "idProvincia": "50"
-  },
-  {
-    "nombreLocalidad": "General Alvear",
-    "idLocalidad": "50014030",
-    "nombreProvincia": "Mendoza",
-    "idProvincia": "50"
-  },
-  {
-    "nombreLocalidad": "General Belgrano",
-    "idLocalidad": "5002802006",
     "nombreProvincia": "Mendoza",
     "idProvincia": "50"
   },
@@ -15810,20 +14106,8 @@
     "idProvincia": "50"
   },
   {
-    "nombreLocalidad": "Jocolí",
-    "idLocalidad": "50056120",
-    "nombreProvincia": "Mendoza",
-    "idProvincia": "50"
-  },
-  {
     "nombreLocalidad": "Jocolí Viejo",
     "idLocalidad": "50056130",
-    "nombreProvincia": "Mendoza",
-    "idProvincia": "50"
-  },
-  {
-    "nombreLocalidad": "Junín",
-    "idLocalidad": "50035020",
     "nombreProvincia": "Mendoza",
     "idProvincia": "50"
   },
@@ -15864,20 +14148,8 @@
     "idProvincia": "50"
   },
   {
-    "nombreLocalidad": "La Esperanza",
-    "idLocalidad": "50084060",
-    "nombreProvincia": "Mendoza",
-    "idProvincia": "50"
-  },
-  {
     "nombreLocalidad": "La Florida",
     "idLocalidad": "5008407002",
-    "nombreProvincia": "Mendoza",
-    "idProvincia": "50"
-  },
-  {
-    "nombreLocalidad": "La Florida",
-    "idLocalidad": "50084070",
     "nombreProvincia": "Mendoza",
     "idProvincia": "50"
   },
@@ -15894,26 +14166,8 @@
     "idProvincia": "50"
   },
   {
-    "nombreLocalidad": "La Paz",
-    "idLocalidad": "50042020",
-    "nombreProvincia": "Mendoza",
-    "idProvincia": "50"
-  },
-  {
     "nombreLocalidad": "La Primavera",
     "idLocalidad": "50028030",
-    "nombreProvincia": "Mendoza",
-    "idProvincia": "50"
-  },
-  {
-    "nombreLocalidad": "La Puntilla",
-    "idLocalidad": "5006309004",
-    "nombreProvincia": "Mendoza",
-    "idProvincia": "50"
-  },
-  {
-    "nombreLocalidad": "Las Cañas",
-    "idLocalidad": "5002802008",
     "nombreProvincia": "Mendoza",
     "idProvincia": "50"
   },
@@ -16032,12 +14286,6 @@
     "idProvincia": "50"
   },
   {
-    "nombreLocalidad": "Maipú",
-    "idLocalidad": "50070060",
-    "nombreProvincia": "Mendoza",
-    "idProvincia": "50"
-  },
-  {
     "nombreLocalidad": "Malargüe",
     "idLocalidad": "50077040",
     "nombreProvincia": "Mendoza",
@@ -16052,12 +14300,6 @@
   {
     "nombreLocalidad": "Medrano",
     "idLocalidad": "50035050",
-    "nombreProvincia": "Mendoza",
-    "idProvincia": "50"
-  },
-  {
-    "nombreLocalidad": "Medrano",
-    "idLocalidad": "50084110",
     "nombreProvincia": "Mendoza",
     "idProvincia": "50"
   },
@@ -16140,12 +14382,6 @@
     "idProvincia": "50"
   },
   {
-    "nombreLocalidad": "Polvaredas",
-    "idLocalidad": "50049080",
-    "nombreProvincia": "Mendoza",
-    "idProvincia": "50"
-  },
-  {
     "nombreLocalidad": "Potrerillos",
     "idLocalidad": "50063110",
     "nombreProvincia": "Mendoza",
@@ -16172,12 +14408,6 @@
   {
     "nombreLocalidad": "Punta de Vacas",
     "idLocalidad": "50049100",
-    "nombreProvincia": "Mendoza",
-    "idProvincia": "50"
-  },
-  {
-    "nombreLocalidad": "Punta del Agua",
-    "idLocalidad": "50105170",
     "nombreProvincia": "Mendoza",
     "idProvincia": "50"
   },
@@ -16230,44 +14460,8 @@
     "idProvincia": "50"
   },
   {
-    "nombreLocalidad": "San Carlos",
-    "idLocalidad": "50091060",
-    "nombreProvincia": "Mendoza",
-    "idProvincia": "50"
-  },
-  {
     "nombreLocalidad": "San Francisco del Monte",
     "idLocalidad": "5002101005",
-    "nombreProvincia": "Mendoza",
-    "idProvincia": "50"
-  },
-  {
-    "nombreLocalidad": "San Francisco del Monte",
-    "idLocalidad": "5002802012",
-    "nombreProvincia": "Mendoza",
-    "idProvincia": "50"
-  },
-  {
-    "nombreLocalidad": "San José",
-    "idLocalidad": "5002802013",
-    "nombreProvincia": "Mendoza",
-    "idProvincia": "50"
-  },
-  {
-    "nombreLocalidad": "San José",
-    "idLocalidad": "50126050",
-    "nombreProvincia": "Mendoza",
-    "idProvincia": "50"
-  },
-  {
-    "nombreLocalidad": "San Martín",
-    "idLocalidad": "5009810002",
-    "nombreProvincia": "Mendoza",
-    "idProvincia": "50"
-  },
-  {
-    "nombreLocalidad": "San Martín",
-    "idLocalidad": "50098100",
     "nombreProvincia": "Mendoza",
     "idProvincia": "50"
   },
@@ -16278,26 +14472,8 @@
     "idProvincia": "50"
   },
   {
-    "nombreLocalidad": "San Rafael",
-    "idLocalidad": "50105210",
-    "nombreProvincia": "Mendoza",
-    "idProvincia": "50"
-  },
-  {
-    "nombreLocalidad": "San Roque",
-    "idLocalidad": "50070090",
-    "nombreProvincia": "Mendoza",
-    "idProvincia": "50"
-  },
-  {
     "nombreLocalidad": "Santa María de Oro",
     "idLocalidad": "50084150",
-    "nombreProvincia": "Mendoza",
-    "idProvincia": "50"
-  },
-  {
-    "nombreLocalidad": "Santa Rosa",
-    "idLocalidad": "50112060",
     "nombreProvincia": "Mendoza",
     "idProvincia": "50"
   },
@@ -16322,12 +14498,6 @@
   {
     "nombreLocalidad": "Tupungato",
     "idLocalidad": "5012606001",
-    "nombreProvincia": "Mendoza",
-    "idProvincia": "50"
-  },
-  {
-    "nombreLocalidad": "Tupungato",
-    "idLocalidad": "50126060",
     "nombreProvincia": "Mendoza",
     "idProvincia": "50"
   },
@@ -16368,12 +14538,6 @@
     "idProvincia": "50"
   },
   {
-    "nombreLocalidad": "Villa Nueva",
-    "idLocalidad": "5002802014",
-    "nombreProvincia": "Mendoza",
-    "idProvincia": "50"
-  },
-  {
     "nombreLocalidad": "Villa Teresa",
     "idLocalidad": "50070100",
     "nombreProvincia": "Mendoza",
@@ -16396,18 +14560,6 @@
     "idLocalidad": "5006309006",
     "nombreProvincia": "Mendoza",
     "idProvincia": "50"
-  },
-  {
-    "nombreLocalidad": "1º de Mayo",
-    "idLocalidad": "54014060",
-    "nombreProvincia": "Misiones",
-    "idProvincia": "54"
-  },
-  {
-    "nombreLocalidad": "25 de Mayo",
-    "idLocalidad": "54119060",
-    "nombreProvincia": "Misiones",
-    "idProvincia": "54"
   },
   {
     "nombreLocalidad": "9 de Julio Kilómetro 20",
@@ -16436,12 +14588,6 @@
   {
     "nombreLocalidad": "Alicia Baja",
     "idLocalidad": "54119025",
-    "nombreProvincia": "Misiones",
-    "idProvincia": "54"
-  },
-  {
-    "nombreLocalidad": "Almafuerte",
-    "idLocalidad": "54070010",
     "nombreProvincia": "Misiones",
     "idProvincia": "54"
   },
@@ -16526,12 +14672,6 @@
   {
     "nombreLocalidad": "Bernardo de Irigoyen",
     "idLocalidad": "54049020",
-    "nombreProvincia": "Misiones",
-    "idProvincia": "54"
-  },
-  {
-    "nombreLocalidad": "Bonpland",
-    "idLocalidad": "54021010",
     "nombreProvincia": "Misiones",
     "idProvincia": "54"
   },
@@ -16704,12 +14844,6 @@
     "idProvincia": "54"
   },
   {
-    "nombreLocalidad": "El Salto",
-    "idLocalidad": "54091040",
-    "nombreProvincia": "Misiones",
-    "idProvincia": "54"
-  },
-  {
     "nombreLocalidad": "El Soberbio",
     "idLocalidad": "54056010",
     "nombreProvincia": "Misiones",
@@ -16728,12 +14862,6 @@
     "idProvincia": "54"
   },
   {
-    "nombreLocalidad": "Florentino Ameghino",
-    "idLocalidad": "54105010",
-    "nombreProvincia": "Misiones",
-    "idProvincia": "54"
-  },
-  {
     "nombreLocalidad": "Fracrán",
     "idLocalidad": "54056020",
     "nombreProvincia": "Misiones",
@@ -16748,12 +14876,6 @@
   {
     "nombreLocalidad": "Garupá",
     "idLocalidad": "54028010",
-    "nombreProvincia": "Misiones",
-    "idProvincia": "54"
-  },
-  {
-    "nombreLocalidad": "General Alvear",
-    "idLocalidad": "54091050",
     "nombreProvincia": "Misiones",
     "idProvincia": "54"
   },
@@ -16784,12 +14906,6 @@
   {
     "nombreLocalidad": "Helvecia",
     "idLocalidad": "54098060",
-    "nombreProvincia": "Misiones",
-    "idProvincia": "54"
-  },
-  {
-    "nombreLocalidad": "Hipólito Yrigoyen",
-    "idLocalidad": "54098070",
     "nombreProvincia": "Misiones",
     "idProvincia": "54"
   },
@@ -16826,18 +14942,6 @@
   {
     "nombreLocalidad": "Laharrague",
     "idLocalidad": "54084020",
-    "nombreProvincia": "Misiones",
-    "idProvincia": "54"
-  },
-  {
-    "nombreLocalidad": "Leandro N. Alem",
-    "idLocalidad": "54070070",
-    "nombreProvincia": "Misiones",
-    "idProvincia": "54"
-  },
-  {
-    "nombreLocalidad": "Loreto",
-    "idLocalidad": "54021040",
     "nombreProvincia": "Misiones",
     "idProvincia": "54"
   },
@@ -16980,12 +15084,6 @@
     "idProvincia": "54"
   },
   {
-    "nombreLocalidad": "Pueblo Nuevo",
-    "idLocalidad": "54042055",
-    "nombreProvincia": "Misiones",
-    "idProvincia": "54"
-  },
-  {
     "nombreLocalidad": "Puerto Andresito",
     "idLocalidad": "54049045",
     "nombreProvincia": "Misiones",
@@ -17082,12 +15180,6 @@
     "idProvincia": "54"
   },
   {
-    "nombreLocalidad": "San Antonio",
-    "idLocalidad": "54049050",
-    "nombreProvincia": "Misiones",
-    "idProvincia": "54"
-  },
-  {
     "nombreLocalidad": "San Francisco de Asís",
     "idLocalidad": "54119040",
     "nombreProvincia": "Misiones",
@@ -17108,48 +15200,6 @@
   {
     "nombreLocalidad": "San Javier",
     "idLocalidad": "54105040",
-    "nombreProvincia": "Misiones",
-    "idProvincia": "54"
-  },
-  {
-    "nombreLocalidad": "San José",
-    "idLocalidad": "54007060",
-    "nombreProvincia": "Misiones",
-    "idProvincia": "54"
-  },
-  {
-    "nombreLocalidad": "San Martín",
-    "idLocalidad": "54091110",
-    "nombreProvincia": "Misiones",
-    "idProvincia": "54"
-  },
-  {
-    "nombreLocalidad": "San Miguel",
-    "idLocalidad": "54077100",
-    "nombreProvincia": "Misiones",
-    "idProvincia": "54"
-  },
-  {
-    "nombreLocalidad": "San Pedro",
-    "idLocalidad": "54112040",
-    "nombreProvincia": "Misiones",
-    "idProvincia": "54"
-  },
-  {
-    "nombreLocalidad": "San Vicente",
-    "idLocalidad": "54056030",
-    "nombreProvincia": "Misiones",
-    "idProvincia": "54"
-  },
-  {
-    "nombreLocalidad": "Santa Ana",
-    "idLocalidad": "54021080",
-    "nombreProvincia": "Misiones",
-    "idProvincia": "54"
-  },
-  {
-    "nombreLocalidad": "Santa María",
-    "idLocalidad": "54035040",
     "nombreProvincia": "Misiones",
     "idProvincia": "54"
   },
@@ -17190,12 +15240,6 @@
     "idProvincia": "54"
   },
   {
-    "nombreLocalidad": "Valle Hermoso",
-    "idLocalidad": "54042090",
-    "nombreProvincia": "Misiones",
-    "idProvincia": "54"
-  },
-  {
     "nombreLocalidad": "Villa Akerman",
     "idLocalidad": "54077110",
     "nombreProvincia": "Misiones",
@@ -17210,12 +15254,6 @@
   {
     "nombreLocalidad": "Villa Cooperativa",
     "idLocalidad": "54063035",
-    "nombreProvincia": "Misiones",
-    "idProvincia": "54"
-  },
-  {
-    "nombreLocalidad": "Villa Libertad",
-    "idLocalidad": "54070090",
     "nombreProvincia": "Misiones",
     "idProvincia": "54"
   },
@@ -17262,20 +15300,8 @@
     "idProvincia": "58"
   },
   {
-    "nombreLocalidad": "Arroyito",
-    "idLocalidad": "58035010",
-    "nombreProvincia": "Neuquén",
-    "idProvincia": "58"
-  },
-  {
     "nombreLocalidad": "Bajada del Agrio",
     "idLocalidad": "58105010",
-    "nombreProvincia": "Neuquén",
-    "idProvincia": "58"
-  },
-  {
-    "nombreLocalidad": "Barrancas",
-    "idLocalidad": "58091010",
     "nombreProvincia": "Neuquén",
     "idProvincia": "58"
   },
@@ -17340,12 +15366,6 @@
     "idProvincia": "58"
   },
   {
-    "nombreLocalidad": "El Sauce",
-    "idLocalidad": "58098005",
-    "nombreProvincia": "Neuquén",
-    "idProvincia": "58"
-  },
-  {
     "nombreLocalidad": "Huinganco",
     "idLocalidad": "58077020",
     "nombreProvincia": "Neuquén",
@@ -17366,12 +15386,6 @@
   {
     "nombreLocalidad": "Las Coloradas",
     "idLocalidad": "58021010",
-    "nombreProvincia": "Neuquén",
-    "idProvincia": "58"
-  },
-  {
-    "nombreLocalidad": "Las Lajas",
-    "idLocalidad": "58105030",
     "nombreProvincia": "Neuquén",
     "idProvincia": "58"
   },
@@ -17414,12 +15428,6 @@
   {
     "nombreLocalidad": "Mariano Moreno",
     "idLocalidad": "5811202002",
-    "nombreProvincia": "Neuquén",
-    "idProvincia": "58"
-  },
-  {
-    "nombreLocalidad": "Mariano Moreno",
-    "idLocalidad": "58112020",
     "nombreProvincia": "Neuquén",
     "idProvincia": "58"
   },
@@ -17856,12 +15864,6 @@
     "idProvincia": "62"
   },
   {
-    "nombreLocalidad": "Barrio Unión",
-    "idLocalidad": "62042350",
-    "nombreProvincia": "Río Negro",
-    "idProvincia": "62"
-  },
-  {
     "nombreLocalidad": "Cañadón Chileno",
     "idLocalidad": "62070005",
     "nombreProvincia": "Río Negro",
@@ -17916,20 +15918,8 @@
     "idProvincia": "62"
   },
   {
-    "nombreLocalidad": "Cinco Saltos",
-    "idLocalidad": "62042390",
-    "nombreProvincia": "Río Negro",
-    "idProvincia": "62"
-  },
-  {
     "nombreLocalidad": "Cipolletti",
     "idLocalidad": "6204240002",
-    "nombreProvincia": "Río Negro",
-    "idProvincia": "62"
-  },
-  {
-    "nombreLocalidad": "Cipolletti",
-    "idLocalidad": "62042400",
     "nombreProvincia": "Río Negro",
     "idProvincia": "62"
   },
@@ -18000,20 +15990,8 @@
     "idProvincia": "62"
   },
   {
-    "nombreLocalidad": "El Bolsón",
-    "idLocalidad": "62021030",
-    "nombreProvincia": "Río Negro",
-    "idProvincia": "62"
-  },
-  {
     "nombreLocalidad": "El Caín",
     "idLocalidad": "62091040",
-    "nombreProvincia": "Río Negro",
-    "idProvincia": "62"
-  },
-  {
-    "nombreLocalidad": "El Cóndor",
-    "idLocalidad": "62007020",
     "nombreProvincia": "Río Negro",
     "idProvincia": "62"
   },
@@ -18048,12 +16026,6 @@
     "idProvincia": "62"
   },
   {
-    "nombreLocalidad": "General Conesa",
-    "idLocalidad": "62028020",
-    "nombreProvincia": "Río Negro",
-    "idProvincia": "62"
-  },
-  {
     "nombreLocalidad": "General Enrique Godoy",
     "idLocalidad": "62042430",
     "nombreProvincia": "Río Negro",
@@ -18062,18 +16034,6 @@
   {
     "nombreLocalidad": "General Fernández Oro",
     "idLocalidad": "62042440",
-    "nombreProvincia": "Río Negro",
-    "idProvincia": "62"
-  },
-  {
-    "nombreLocalidad": "General Roca",
-    "idLocalidad": "6204245002",
-    "nombreProvincia": "Río Negro",
-    "idProvincia": "62"
-  },
-  {
-    "nombreLocalidad": "General Roca",
-    "idLocalidad": "62042450",
     "nombreProvincia": "Río Negro",
     "idProvincia": "62"
   },
@@ -18110,12 +16070,6 @@
   {
     "nombreLocalidad": "La Lobería",
     "idLocalidad": "62007050",
-    "nombreProvincia": "Río Negro",
-    "idProvincia": "62"
-  },
-  {
-    "nombreLocalidad": "Laguna Blanca",
-    "idLocalidad": "62070030",
     "nombreProvincia": "Río Negro",
     "idProvincia": "62"
   },
@@ -18240,12 +16194,6 @@
     "idProvincia": "62"
   },
   {
-    "nombreLocalidad": "Paso Córdova",
-    "idLocalidad": "62042490",
-    "nombreProvincia": "Río Negro",
-    "idProvincia": "62"
-  },
-  {
     "nombreLocalidad": "Península Ruca Co",
     "idLocalidad": "62042500",
     "nombreProvincia": "Río Negro",
@@ -18360,18 +16308,6 @@
     "idProvincia": "62"
   },
   {
-    "nombreLocalidad": "San Carlos de Bariloche",
-    "idLocalidad": "62021060",
-    "nombreProvincia": "Río Negro",
-    "idProvincia": "62"
-  },
-  {
-    "nombreLocalidad": "San Javier",
-    "idLocalidad": "62007080",
-    "nombreProvincia": "Río Negro",
-    "idProvincia": "62"
-  },
-  {
     "nombreLocalidad": "Sargento Vidal",
     "idLocalidad": "62042520",
     "nombreProvincia": "Río Negro",
@@ -18438,12 +16374,6 @@
     "idProvincia": "62"
   },
   {
-    "nombreLocalidad": "Villa del Parque",
-    "idLocalidad": "62042540",
-    "nombreProvincia": "Río Negro",
-    "idProvincia": "62"
-  },
-  {
     "nombreLocalidad": "Villa Llanquín",
     "idLocalidad": "62070080",
     "nombreProvincia": "Río Negro",
@@ -18470,12 +16400,6 @@
   {
     "nombreLocalidad": "Villa Regina",
     "idLocalidad": "62042560",
-    "nombreProvincia": "Río Negro",
-    "idProvincia": "62"
-  },
-  {
-    "nombreLocalidad": "Villa San Isidro",
-    "idLocalidad": "62042570",
     "nombreProvincia": "Río Negro",
     "idProvincia": "62"
   },
@@ -18666,12 +16590,6 @@
     "idProvincia": "66"
   },
   {
-    "nombreLocalidad": "Colonia Santa Rosa",
-    "idLocalidad": "66126020",
-    "nombreProvincia": "Salta",
-    "idProvincia": "66"
-  },
-  {
     "nombreLocalidad": "Copo Quile",
     "idLocalidad": "66140020",
     "nombreProvincia": "Salta",
@@ -18686,12 +16604,6 @@
   {
     "nombreLocalidad": "Coronel Juan Solá",
     "idLocalidad": "66133030",
-    "nombreProvincia": "Salta",
-    "idProvincia": "66"
-  },
-  {
-    "nombreLocalidad": "Coronel Moldes",
-    "idLocalidad": "66098030",
     "nombreProvincia": "Salta",
     "idProvincia": "66"
   },
@@ -18756,12 +16668,6 @@
     "idProvincia": "66"
   },
   {
-    "nombreLocalidad": "El Potrero",
-    "idLocalidad": "66140040",
-    "nombreProvincia": "Salta",
-    "idProvincia": "66"
-  },
-  {
     "nombreLocalidad": "El Quebrachal",
     "idLocalidad": "66007060",
     "nombreProvincia": "Salta",
@@ -18792,12 +16698,6 @@
     "idProvincia": "66"
   },
   {
-    "nombreLocalidad": "Embarcación",
-    "idLocalidad": "66056090",
-    "nombreProvincia": "Salta",
-    "idProvincia": "66"
-  },
-  {
     "nombreLocalidad": "Gaona",
     "idLocalidad": "66007070",
     "nombreProvincia": "Salta",
@@ -18816,18 +16716,6 @@
     "idProvincia": "66"
   },
   {
-    "nombreLocalidad": "General Mosconi",
-    "idLocalidad": "6605611001",
-    "nombreProvincia": "Salta",
-    "idProvincia": "66"
-  },
-  {
-    "nombreLocalidad": "General Mosconi",
-    "idLocalidad": "66056110",
-    "nombreProvincia": "Salta",
-    "idProvincia": "66"
-  },
-  {
     "nombreLocalidad": "General Pizarro",
     "idLocalidad": "66007080",
     "nombreProvincia": "Salta",
@@ -18842,12 +16730,6 @@
   {
     "nombreLocalidad": "Hickman",
     "idLocalidad": "66056120",
-    "nombreProvincia": "Salta",
-    "idProvincia": "66"
-  },
-  {
-    "nombreLocalidad": "Hipólito Yrigoyen",
-    "idLocalidad": "66126040",
     "nombreProvincia": "Salta",
     "idProvincia": "66"
   },
@@ -18882,18 +16764,6 @@
     "idProvincia": "66"
   },
   {
-    "nombreLocalidad": "La Candelaria",
-    "idLocalidad": "66084030",
-    "nombreProvincia": "Salta",
-    "idProvincia": "66"
-  },
-  {
-    "nombreLocalidad": "La Merced",
-    "idLocalidad": "66035020",
-    "nombreProvincia": "Salta",
-    "idProvincia": "66"
-  },
-  {
     "nombreLocalidad": "La Merced del Encón",
     "idLocalidad": "66147015",
     "nombreProvincia": "Salta",
@@ -18912,26 +16782,8 @@
     "idProvincia": "66"
   },
   {
-    "nombreLocalidad": "La Puerta",
-    "idLocalidad": "66119010",
-    "nombreProvincia": "Salta",
-    "idProvincia": "66"
-  },
-  {
     "nombreLocalidad": "La Silleta",
     "idLocalidad": "66147020",
-    "nombreProvincia": "Salta",
-    "idProvincia": "66"
-  },
-  {
-    "nombreLocalidad": "La Unión",
-    "idLocalidad": "66133040",
-    "nombreProvincia": "Salta",
-    "idProvincia": "66"
-  },
-  {
-    "nombreLocalidad": "La Viña",
-    "idLocalidad": "66098040",
     "nombreProvincia": "Salta",
     "idProvincia": "66"
   },
@@ -18944,12 +16796,6 @@
   {
     "nombreLocalidad": "Los Blancos",
     "idLocalidad": "66133050",
-    "nombreProvincia": "Salta",
-    "idProvincia": "66"
-  },
-  {
-    "nombreLocalidad": "Los Toldos",
-    "idLocalidad": "66161030",
     "nombreProvincia": "Salta",
     "idProvincia": "66"
   },
@@ -19004,12 +16850,6 @@
   {
     "nombreLocalidad": "Nuestra Señora de Talavera",
     "idLocalidad": "66007130",
-    "nombreProvincia": "Salta",
-    "idProvincia": "66"
-  },
-  {
-    "nombreLocalidad": "Olacapato",
-    "idLocalidad": "66105010",
     "nombreProvincia": "Salta",
     "idProvincia": "66"
   },
@@ -19092,12 +16932,6 @@
     "idProvincia": "66"
   },
   {
-    "nombreLocalidad": "Rivadavia",
-    "idLocalidad": "66133070",
-    "nombreProvincia": "Salta",
-    "idProvincia": "66"
-  },
-  {
     "nombreLocalidad": "Rosario de la Frontera",
     "idLocalidad": "66140050",
     "nombreProvincia": "Salta",
@@ -19116,26 +16950,8 @@
     "idProvincia": "66"
   },
   {
-    "nombreLocalidad": "Salta",
-    "idLocalidad": "66028050",
-    "nombreProvincia": "Salta",
-    "idProvincia": "66"
-  },
-  {
-    "nombreLocalidad": "San Agustín",
-    "idLocalidad": "66035030",
-    "nombreProvincia": "Salta",
-    "idProvincia": "66"
-  },
-  {
     "nombreLocalidad": "San Antonio de los Cobres",
     "idLocalidad": "66105020",
-    "nombreProvincia": "Salta",
-    "idProvincia": "66"
-  },
-  {
-    "nombreLocalidad": "San Carlos",
-    "idLocalidad": "66154040",
     "nombreProvincia": "Salta",
     "idProvincia": "66"
   },
@@ -19158,26 +16974,8 @@
     "idProvincia": "66"
   },
   {
-    "nombreLocalidad": "San Marcos",
-    "idLocalidad": "66161060",
-    "nombreProvincia": "Salta",
-    "idProvincia": "66"
-  },
-  {
     "nombreLocalidad": "San Ramón de la Nueva Orán",
     "idLocalidad": "66126070",
-    "nombreProvincia": "Salta",
-    "idProvincia": "66"
-  },
-  {
-    "nombreLocalidad": "Santa María",
-    "idLocalidad": "66133080",
-    "nombreProvincia": "Salta",
-    "idProvincia": "66"
-  },
-  {
-    "nombreLocalidad": "Santa Rosa",
-    "idLocalidad": "66133090",
     "nombreProvincia": "Salta",
     "idProvincia": "66"
   },
@@ -19272,12 +17070,6 @@
     "idProvincia": "66"
   },
   {
-    "nombreLocalidad": "9 de Julio",
-    "idLocalidad": "70063040",
-    "nombreProvincia": "San Juan",
-    "idProvincia": "70"
-  },
-  {
     "nombreLocalidad": "Alto de Sierra",
     "idLocalidad": "70063010",
     "nombreProvincia": "San Juan",
@@ -19322,12 +17114,6 @@
   {
     "nombreLocalidad": "Barrio Sadop - Bella Vista",
     "idLocalidad": "70091010",
-    "nombreProvincia": "San Juan",
-    "idProvincia": "70"
-  },
-  {
-    "nombreLocalidad": "Bermejo",
-    "idLocalidad": "70035010",
     "nombreProvincia": "San Juan",
     "idProvincia": "70"
   },
@@ -19422,12 +17208,6 @@
     "idProvincia": "70"
   },
   {
-    "nombreLocalidad": "El Rincón",
-    "idLocalidad": "70035030",
-    "nombreProvincia": "San Juan",
-    "idProvincia": "70"
-  },
-  {
     "nombreLocalidad": "Gran China",
     "idLocalidad": "70056020",
     "nombreProvincia": "San Juan",
@@ -19452,50 +17232,14 @@
     "idProvincia": "70"
   },
   {
-    "nombreLocalidad": "La Falda",
-    "idLocalidad": "7005606002",
-    "nombreProvincia": "San Juan",
-    "idProvincia": "70"
-  },
-  {
-    "nombreLocalidad": "La Rinconada",
-    "idLocalidad": "7007004001",
-    "nombreProvincia": "San Juan",
-    "idProvincia": "70"
-  },
-  {
-    "nombreLocalidad": "Las Chacritas",
-    "idLocalidad": "70063030",
-    "nombreProvincia": "San Juan",
-    "idProvincia": "70"
-  },
-  {
-    "nombreLocalidad": "Las Flores",
-    "idLocalidad": "70049040",
-    "nombreProvincia": "San Juan",
-    "idProvincia": "70"
-  },
-  {
     "nombreLocalidad": "Las Lagunas",
     "idLocalidad": "70105060",
     "nombreProvincia": "San Juan",
     "idProvincia": "70"
   },
   {
-    "nombreLocalidad": "Las Talas",
-    "idLocalidad": "7003504001",
-    "nombreProvincia": "San Juan",
-    "idProvincia": "70"
-  },
-  {
     "nombreLocalidad": "Las Talas - Los Médanos",
     "idLocalidad": "70035040",
-    "nombreProvincia": "San Juan",
-    "idProvincia": "70"
-  },
-  {
-    "nombreLocalidad": "Las Tapias",
-    "idLocalidad": "70014010",
     "nombreProvincia": "San Juan",
     "idProvincia": "70"
   },
@@ -19542,18 +17286,6 @@
     "idProvincia": "70"
   },
   {
-    "nombreLocalidad": "Pampa Vieja",
-    "idLocalidad": "70056060",
-    "nombreProvincia": "San Juan",
-    "idProvincia": "70"
-  },
-  {
-    "nombreLocalidad": "Pedernal",
-    "idLocalidad": "70105080",
-    "nombreProvincia": "San Juan",
-    "idProvincia": "70"
-  },
-  {
     "nombreLocalidad": "Pie de Palo",
     "idLocalidad": "70035060",
     "nombreProvincia": "San Juan",
@@ -19578,38 +17310,8 @@
     "idProvincia": "70"
   },
   {
-    "nombreLocalidad": "Rawson",
-    "idLocalidad": "7007701002",
-    "nombreProvincia": "San Juan",
-    "idProvincia": "70"
-  },
-  {
-    "nombreLocalidad": "Rawson",
-    "idLocalidad": "70077010",
-    "nombreProvincia": "San Juan",
-    "idProvincia": "70"
-  },
-  {
-    "nombreLocalidad": "Rivadavia",
-    "idLocalidad": "70084010",
-    "nombreProvincia": "San Juan",
-    "idProvincia": "70"
-  },
-  {
     "nombreLocalidad": "Rodeo",
     "idLocalidad": "70049060",
-    "nombreProvincia": "San Juan",
-    "idProvincia": "70"
-  },
-  {
-    "nombreLocalidad": "San Isidro",
-    "idLocalidad": "70056070",
-    "nombreProvincia": "San Juan",
-    "idProvincia": "70"
-  },
-  {
-    "nombreLocalidad": "San Isidro",
-    "idLocalidad": "70091030",
     "nombreProvincia": "San Juan",
     "idProvincia": "70"
   },
@@ -19626,26 +17328,8 @@
     "idProvincia": "70"
   },
   {
-    "nombreLocalidad": "Santa Lucía",
-    "idLocalidad": "7009801002",
-    "nombreProvincia": "San Juan",
-    "idProvincia": "70"
-  },
-  {
-    "nombreLocalidad": "Santa Lucía",
-    "idLocalidad": "70098010",
-    "nombreProvincia": "San Juan",
-    "idProvincia": "70"
-  },
-  {
     "nombreLocalidad": "Tamberías",
     "idLocalidad": "70021030",
-    "nombreProvincia": "San Juan",
-    "idProvincia": "70"
-  },
-  {
-    "nombreLocalidad": "Tamberías",
-    "idLocalidad": "70056090",
     "nombreProvincia": "San Juan",
     "idProvincia": "70"
   },
@@ -19704,12 +17388,6 @@
     "idProvincia": "70"
   },
   {
-    "nombreLocalidad": "Villa Basilio Nievas",
-    "idLocalidad": "70133010",
-    "nombreProvincia": "San Juan",
-    "idProvincia": "70"
-  },
-  {
     "nombreLocalidad": "Villa Bolaños (Médano de Oro)",
     "idLocalidad": "70077020",
     "nombreProvincia": "San Juan",
@@ -19724,12 +17402,6 @@
   {
     "nombreLocalidad": "Villa Borjas - La Chimbera",
     "idLocalidad": "70126030",
-    "nombreProvincia": "San Juan",
-    "idProvincia": "70"
-  },
-  {
-    "nombreLocalidad": "Villa Centenario",
-    "idLocalidad": "70070060",
     "nombreProvincia": "San Juan",
     "idProvincia": "70"
   },
@@ -19782,12 +17454,6 @@
     "idProvincia": "70"
   },
   {
-    "nombreLocalidad": "Villa Independencia",
-    "idLocalidad": "70035080",
-    "nombreProvincia": "San Juan",
-    "idProvincia": "70"
-  },
-  {
     "nombreLocalidad": "Villa Malvinas Argentinas",
     "idLocalidad": "70056100",
     "nombreProvincia": "San Juan",
@@ -19820,12 +17486,6 @@
   {
     "nombreLocalidad": "Villa San Martín",
     "idLocalidad": "70091070",
-    "nombreProvincia": "San Juan",
-    "idProvincia": "70"
-  },
-  {
-    "nombreLocalidad": "Villa Santa Rosa",
-    "idLocalidad": "70126050",
     "nombreProvincia": "San Juan",
     "idProvincia": "70"
   },
@@ -19902,32 +17562,8 @@
     "idProvincia": "74"
   },
   {
-    "nombreLocalidad": "Candelaria",
-    "idLocalidad": "74007010",
-    "nombreProvincia": "San Luis",
-    "idProvincia": "74"
-  },
-  {
-    "nombreLocalidad": "Carolina",
-    "idLocalidad": "74021010",
-    "nombreProvincia": "San Luis",
-    "idProvincia": "74"
-  },
-  {
-    "nombreLocalidad": "Carpintería",
-    "idLocalidad": "74049010",
-    "nombreProvincia": "San Luis",
-    "idProvincia": "74"
-  },
-  {
     "nombreLocalidad": "Cazador",
     "idLocalidad": "74056050",
-    "nombreProvincia": "San Luis",
-    "idProvincia": "74"
-  },
-  {
-    "nombreLocalidad": "Cerro Colorado",
-    "idLocalidad": "7405610001",
     "nombreProvincia": "San Luis",
     "idProvincia": "74"
   },
@@ -19956,18 +17592,6 @@
     "idProvincia": "74"
   },
   {
-    "nombreLocalidad": "Cruz de Piedra",
-    "idLocalidad": "7405610002",
-    "nombreProvincia": "San Luis",
-    "idProvincia": "74"
-  },
-  {
-    "nombreLocalidad": "Desaguadero",
-    "idLocalidad": "74056070",
-    "nombreProvincia": "San Luis",
-    "idProvincia": "74"
-  },
-  {
     "nombreLocalidad": "El Chorrillo",
     "idLocalidad": "7405610003",
     "nombreProvincia": "San Luis",
@@ -19982,12 +17606,6 @@
   {
     "nombreLocalidad": "El Volcán",
     "idLocalidad": "74056080",
-    "nombreProvincia": "San Luis",
-    "idProvincia": "74"
-  },
-  {
-    "nombreLocalidad": "Estancia Grande",
-    "idLocalidad": "74021025",
     "nombreProvincia": "San Luis",
     "idProvincia": "74"
   },
@@ -20040,18 +17658,6 @@
     "idProvincia": "74"
   },
   {
-    "nombreLocalidad": "La Calera",
-    "idLocalidad": "74014010",
-    "nombreProvincia": "San Luis",
-    "idProvincia": "74"
-  },
-  {
-    "nombreLocalidad": "La Florida",
-    "idLocalidad": "74021050",
-    "nombreProvincia": "San Luis",
-    "idProvincia": "74"
-  },
-  {
     "nombreLocalidad": "La Maroma",
     "idLocalidad": "74042080",
     "nombreProvincia": "San Luis",
@@ -20100,32 +17706,8 @@
     "idProvincia": "74"
   },
   {
-    "nombreLocalidad": "Las Chacras",
-    "idLocalidad": "7405610004",
-    "nombreProvincia": "San Luis",
-    "idProvincia": "74"
-  },
-  {
-    "nombreLocalidad": "Las Chacras",
-    "idLocalidad": "74063030",
-    "nombreProvincia": "San Luis",
-    "idProvincia": "74"
-  },
-  {
-    "nombreLocalidad": "Las Lagunas",
-    "idLocalidad": "74063040",
-    "nombreProvincia": "San Luis",
-    "idProvincia": "74"
-  },
-  {
     "nombreLocalidad": "Lavaisse",
     "idLocalidad": "74035050",
-    "nombreProvincia": "San Luis",
-    "idProvincia": "74"
-  },
-  {
-    "nombreLocalidad": "Leandro N. Alem",
-    "idLocalidad": "74007030",
     "nombreProvincia": "San Luis",
     "idProvincia": "74"
   },
@@ -20148,20 +17730,8 @@
     "idProvincia": "74"
   },
   {
-    "nombreLocalidad": "Luján",
-    "idLocalidad": "74007040",
-    "nombreProvincia": "San Luis",
-    "idProvincia": "74"
-  },
-  {
     "nombreLocalidad": "Martín de Loyola",
     "idLocalidad": "74042100",
-    "nombreProvincia": "San Luis",
-    "idProvincia": "74"
-  },
-  {
-    "nombreLocalidad": "Merlo",
-    "idLocalidad": "74049060",
     "nombreProvincia": "San Luis",
     "idProvincia": "74"
   },
@@ -20250,12 +17820,6 @@
     "idProvincia": "74"
   },
   {
-    "nombreLocalidad": "Saladillo",
-    "idLocalidad": "74021090",
-    "nombreProvincia": "San Luis",
-    "idProvincia": "74"
-  },
-  {
     "nombreLocalidad": "Salinas del Bebedero",
     "idLocalidad": "74056130",
     "nombreProvincia": "San Luis",
@@ -20282,24 +17846,6 @@
   {
     "nombreLocalidad": "San Luis",
     "idLocalidad": "74056150",
-    "nombreProvincia": "San Luis",
-    "idProvincia": "74"
-  },
-  {
-    "nombreLocalidad": "San Martín",
-    "idLocalidad": "74063070",
-    "nombreProvincia": "San Luis",
-    "idProvincia": "74"
-  },
-  {
-    "nombreLocalidad": "San Pablo",
-    "idLocalidad": "74028060",
-    "nombreProvincia": "San Luis",
-    "idProvincia": "74"
-  },
-  {
-    "nombreLocalidad": "San Roque",
-    "idLocalidad": "7405610005",
     "nombreProvincia": "San Luis",
     "idProvincia": "74"
   },
@@ -20354,18 +17900,6 @@
   {
     "nombreLocalidad": "Villa Larca",
     "idLocalidad": "74028090",
-    "nombreProvincia": "San Luis",
-    "idProvincia": "74"
-  },
-  {
-    "nombreLocalidad": "Villa Mercedes",
-    "idLocalidad": "7403507002",
-    "nombreProvincia": "San Luis",
-    "idProvincia": "74"
-  },
-  {
-    "nombreLocalidad": "Villa Mercedes",
-    "idLocalidad": "74035070",
     "nombreProvincia": "San Luis",
     "idProvincia": "74"
   },
@@ -20448,12 +17982,6 @@
     "idProvincia": "78"
   },
   {
-    "nombreLocalidad": "Hipólito Yrigoyen",
-    "idLocalidad": "78049030",
-    "nombreProvincia": "Santa Cruz",
-    "idProvincia": "78"
-  },
-  {
     "nombreLocalidad": "Jaramillo",
     "idLocalidad": "78014040",
     "nombreProvincia": "Santa Cruz",
@@ -20472,12 +18000,6 @@
     "idProvincia": "78"
   },
   {
-    "nombreLocalidad": "Las Heras",
-    "idLocalidad": "78014060",
-    "nombreProvincia": "Santa Cruz",
-    "idProvincia": "78"
-  },
-  {
     "nombreLocalidad": "Los Antiguos",
     "idLocalidad": "78035010",
     "nombreProvincia": "Santa Cruz",
@@ -20492,12 +18014,6 @@
   {
     "nombreLocalidad": "Pico Truncado",
     "idLocalidad": "78014070",
-    "nombreProvincia": "Santa Cruz",
-    "idProvincia": "78"
-  },
-  {
-    "nombreLocalidad": "Puerto Deseado",
-    "idLocalidad": "78014080",
     "nombreProvincia": "Santa Cruz",
     "idProvincia": "78"
   },
@@ -20580,12 +18096,6 @@
     "idProvincia": "82"
   },
   {
-    "nombreLocalidad": "Aldao",
-    "idLocalidad": "82119010",
-    "nombreProvincia": "Santa Fe",
-    "idProvincia": "82"
-  },
-  {
     "nombreLocalidad": "Alejandra",
     "idLocalidad": "82098010",
     "nombreProvincia": "Santa Fe",
@@ -20594,12 +18104,6 @@
   {
     "nombreLocalidad": "Álvarez",
     "idLocalidad": "82084030",
-    "nombreProvincia": "Santa Fe",
-    "idProvincia": "82"
-  },
-  {
-    "nombreLocalidad": "Alvear",
-    "idLocalidad": "82084040",
     "nombreProvincia": "Santa Fe",
     "idProvincia": "82"
   },
@@ -20682,12 +18186,6 @@
     "idProvincia": "82"
   },
   {
-    "nombreLocalidad": "Arroyo Leyes",
-    "idLocalidad": "82063030",
-    "nombreProvincia": "Santa Fe",
-    "idProvincia": "82"
-  },
-  {
     "nombreLocalidad": "Arroyo Seco",
     "idLocalidad": "82084070",
     "nombreProvincia": "Santa Fe",
@@ -20718,12 +18216,6 @@
     "idProvincia": "82"
   },
   {
-    "nombreLocalidad": "Avellaneda",
-    "idLocalidad": "82049020",
-    "nombreProvincia": "Santa Fe",
-    "idProvincia": "82"
-  },
-  {
     "nombreLocalidad": "Balneario La Verde",
     "idLocalidad": "82091040",
     "nombreProvincia": "Santa Fe",
@@ -20732,12 +18224,6 @@
   {
     "nombreLocalidad": "Balneario Monje",
     "idLocalidad": "82105020",
-    "nombreProvincia": "Santa Fe",
-    "idProvincia": "82"
-  },
-  {
-    "nombreLocalidad": "Barrancas",
-    "idLocalidad": "82105030",
     "nombreProvincia": "Santa Fe",
     "idProvincia": "82"
   },
@@ -20798,12 +18284,6 @@
   {
     "nombreLocalidad": "Berna",
     "idLocalidad": "82049030",
-    "nombreProvincia": "Santa Fe",
-    "idProvincia": "82"
-  },
-  {
-    "nombreLocalidad": "Bernardo de Irigoyen",
-    "idLocalidad": "82105060",
     "nombreProvincia": "Santa Fe",
     "idProvincia": "82"
   },
@@ -20960,12 +18440,6 @@
   {
     "nombreLocalidad": "Casilda",
     "idLocalidad": "82014050",
-    "nombreProvincia": "Santa Fe",
-    "idProvincia": "82"
-  },
-  {
-    "nombreLocalidad": "Castelar",
-    "idLocalidad": "82126040",
     "nombreProvincia": "Santa Fe",
     "idProvincia": "82"
   },
@@ -21336,12 +18810,6 @@
     "idProvincia": "82"
   },
   {
-    "nombreLocalidad": "Firmat",
-    "idLocalidad": "82042120",
-    "nombreProvincia": "Santa Fe",
-    "idProvincia": "82"
-  },
-  {
     "nombreLocalidad": "Florencia",
     "idLocalidad": "82049060",
     "nombreProvincia": "Santa Fe",
@@ -21356,12 +18824,6 @@
   {
     "nombreLocalidad": "Franck",
     "idLocalidad": "82070070",
-    "nombreProvincia": "Santa Fe",
-    "idProvincia": "82"
-  },
-  {
-    "nombreLocalidad": "Fray Luis Beltrán",
-    "idLocalidad": "82119050",
     "nombreProvincia": "Santa Fe",
     "idProvincia": "82"
   },
@@ -21480,12 +18942,6 @@
     "idProvincia": "82"
   },
   {
-    "nombreLocalidad": "Helvecia",
-    "idLocalidad": "82035020",
-    "nombreProvincia": "Santa Fe",
-    "idProvincia": "82"
-  },
-  {
     "nombreLocalidad": "Hersilia",
     "idLocalidad": "82091120",
     "nombreProvincia": "Santa Fe",
@@ -21600,12 +19056,6 @@
     "idProvincia": "82"
   },
   {
-    "nombreLocalidad": "La Criolla",
-    "idLocalidad": "82112060",
-    "nombreProvincia": "Santa Fe",
-    "idProvincia": "82"
-  },
-  {
     "nombreLocalidad": "La Gallareta",
     "idLocalidad": "82133090",
     "nombreProvincia": "Santa Fe",
@@ -21614,12 +19064,6 @@
   {
     "nombreLocalidad": "La Isleta",
     "idLocalidad": "82049090",
-    "nombreProvincia": "Santa Fe",
-    "idProvincia": "82"
-  },
-  {
-    "nombreLocalidad": "La Lucila",
-    "idLocalidad": "82091145",
     "nombreProvincia": "Santa Fe",
     "idProvincia": "82"
   },
@@ -21732,18 +19176,6 @@
     "idProvincia": "82"
   },
   {
-    "nombreLocalidad": "Las Toscas",
-    "idLocalidad": "82049130",
-    "nombreProvincia": "Santa Fe",
-    "idProvincia": "82"
-  },
-  {
-    "nombreLocalidad": "Las Tunas",
-    "idLocalidad": "82070130",
-    "nombreProvincia": "Santa Fe",
-    "idProvincia": "82"
-  },
-  {
     "nombreLocalidad": "Lazzarino",
     "idLocalidad": "82042160",
     "nombreProvincia": "Santa Fe",
@@ -21774,12 +19206,6 @@
     "idProvincia": "82"
   },
   {
-    "nombreLocalidad": "López",
-    "idLocalidad": "82105180",
-    "nombreProvincia": "Santa Fe",
-    "idProvincia": "82"
-  },
-  {
     "nombreLocalidad": "Los Amores",
     "idLocalidad": "82133100",
     "nombreProvincia": "Santa Fe",
@@ -21798,20 +19224,8 @@
     "idProvincia": "82"
   },
   {
-    "nombreLocalidad": "Los Molinos",
-    "idLocalidad": "82014090",
-    "nombreProvincia": "Santa Fe",
-    "idProvincia": "82"
-  },
-  {
     "nombreLocalidad": "Los Muchachos - La Alborada",
     "idLocalidad": "82084190",
-    "nombreProvincia": "Santa Fe",
-    "idProvincia": "82"
-  },
-  {
-    "nombreLocalidad": "Los Nogales",
-    "idLocalidad": "82014100",
     "nombreProvincia": "Santa Fe",
     "idProvincia": "82"
   },
@@ -22032,12 +19446,6 @@
     "idProvincia": "82"
   },
   {
-    "nombreLocalidad": "Pavón",
-    "idLocalidad": "82028150",
-    "nombreProvincia": "Santa Fe",
-    "idProvincia": "82"
-  },
-  {
     "nombreLocalidad": "Pavón Arriba",
     "idLocalidad": "82028160",
     "nombreProvincia": "Santa Fe",
@@ -22064,12 +19472,6 @@
   {
     "nombreLocalidad": "Piamonte",
     "idLocalidad": "82126130",
-    "nombreProvincia": "Santa Fe",
-    "idProvincia": "82"
-  },
-  {
-    "nombreLocalidad": "Pilar",
-    "idLocalidad": "82070170",
     "nombreProvincia": "Santa Fe",
     "idProvincia": "82"
   },
@@ -22112,12 +19514,6 @@
   {
     "nombreLocalidad": "Presidente Roca",
     "idLocalidad": "8202129002",
-    "nombreProvincia": "Santa Fe",
-    "idProvincia": "82"
-  },
-  {
-    "nombreLocalidad": "Presidente Roca",
-    "idLocalidad": "82021290",
     "nombreProvincia": "Santa Fe",
     "idProvincia": "82"
   },
@@ -22224,12 +19620,6 @@
     "idProvincia": "82"
   },
   {
-    "nombreLocalidad": "Recreo",
-    "idLocalidad": "82063140",
-    "nombreProvincia": "Santa Fe",
-    "idProvincia": "82"
-  },
-  {
     "nombreLocalidad": "Ricardone",
     "idLocalidad": "82119100",
     "nombreProvincia": "Santa Fe",
@@ -22296,32 +19686,8 @@
     "idProvincia": "82"
   },
   {
-    "nombreLocalidad": "San Agustín",
-    "idLocalidad": "82070220",
-    "nombreProvincia": "Santa Fe",
-    "idProvincia": "82"
-  },
-  {
-    "nombreLocalidad": "San Antonio",
-    "idLocalidad": "82021330",
-    "nombreProvincia": "Santa Fe",
-    "idProvincia": "82"
-  },
-  {
     "nombreLocalidad": "San Antonio de Obligado",
     "idLocalidad": "82049190",
-    "nombreProvincia": "Santa Fe",
-    "idProvincia": "82"
-  },
-  {
-    "nombreLocalidad": "San Bernardo",
-    "idLocalidad": "82077065",
-    "nombreProvincia": "Santa Fe",
-    "idProvincia": "82"
-  },
-  {
-    "nombreLocalidad": "San Bernardo",
-    "idLocalidad": "82112120",
     "nombreProvincia": "Santa Fe",
     "idProvincia": "82"
   },
@@ -22340,12 +19706,6 @@
   {
     "nombreLocalidad": "San Carlos Sud",
     "idLocalidad": "82070250",
-    "nombreProvincia": "Santa Fe",
-    "idProvincia": "82"
-  },
-  {
-    "nombreLocalidad": "San Cristóbal",
-    "idLocalidad": "82091220",
     "nombreProvincia": "Santa Fe",
     "idProvincia": "82"
   },
@@ -22398,12 +19758,6 @@
     "idProvincia": "82"
   },
   {
-    "nombreLocalidad": "San Javier",
-    "idLocalidad": "82098060",
-    "nombreProvincia": "Santa Fe",
-    "idProvincia": "82"
-  },
-  {
     "nombreLocalidad": "San Jerónimo del Sauce",
     "idLocalidad": "82070260",
     "nombreProvincia": "Santa Fe",
@@ -22440,18 +19794,6 @@
     "idProvincia": "82"
   },
   {
-    "nombreLocalidad": "San Justo",
-    "idLocalidad": "82112130",
-    "nombreProvincia": "Santa Fe",
-    "idProvincia": "82"
-  },
-  {
-    "nombreLocalidad": "San Lorenzo",
-    "idLocalidad": "82119130",
-    "nombreProvincia": "Santa Fe",
-    "idProvincia": "82"
-  },
-  {
     "nombreLocalidad": "San Mariano",
     "idLocalidad": "82070280",
     "nombreProvincia": "Santa Fe",
@@ -22466,12 +19808,6 @@
   {
     "nombreLocalidad": "San Martín Norte",
     "idLocalidad": "82112140",
-    "nombreProvincia": "Santa Fe",
-    "idProvincia": "82"
-  },
-  {
-    "nombreLocalidad": "San Vicente",
-    "idLocalidad": "82021340",
     "nombreProvincia": "Santa Fe",
     "idProvincia": "82"
   },
@@ -22506,12 +19842,6 @@
     "idProvincia": "82"
   },
   {
-    "nombreLocalidad": "Santa Isabel",
-    "idLocalidad": "82042270",
-    "nombreProvincia": "Santa Fe",
-    "idProvincia": "82"
-  },
-  {
     "nombreLocalidad": "Santa Margarita",
     "idLocalidad": "82077070",
     "nombreProvincia": "Santa Fe",
@@ -22520,24 +19850,6 @@
   {
     "nombreLocalidad": "Santa Rosa de Calchines",
     "idLocalidad": "82035050",
-    "nombreProvincia": "Santa Fe",
-    "idProvincia": "82"
-  },
-  {
-    "nombreLocalidad": "Santa Teresa",
-    "idLocalidad": "82028190",
-    "nombreProvincia": "Santa Fe",
-    "idProvincia": "82"
-  },
-  {
-    "nombreLocalidad": "Santo Domingo",
-    "idLocalidad": "82070300",
-    "nombreProvincia": "Santa Fe",
-    "idProvincia": "82"
-  },
-  {
-    "nombreLocalidad": "Santo Tomé",
-    "idLocalidad": "82063180",
     "nombreProvincia": "Santa Fe",
     "idProvincia": "82"
   },
@@ -22554,12 +19866,6 @@
     "idProvincia": "82"
   },
   {
-    "nombreLocalidad": "Sarmiento",
-    "idLocalidad": "82070310",
-    "nombreProvincia": "Santa Fe",
-    "idProvincia": "82"
-  },
-  {
     "nombreLocalidad": "Sastre",
     "idLocalidad": "82126160",
     "nombreProvincia": "Santa Fe",
@@ -22568,12 +19874,6 @@
   {
     "nombreLocalidad": "Sauce Viejo",
     "idLocalidad": "8206319001",
-    "nombreProvincia": "Santa Fe",
-    "idProvincia": "82"
-  },
-  {
-    "nombreLocalidad": "Sauce Viejo",
-    "idLocalidad": "82063190",
     "nombreProvincia": "Santa Fe",
     "idProvincia": "82"
   },
@@ -22634,12 +19934,6 @@
   {
     "nombreLocalidad": "Tacural",
     "idLocalidad": "82021380",
-    "nombreProvincia": "Santa Fe",
-    "idProvincia": "82"
-  },
-  {
-    "nombreLocalidad": "Tartagal",
-    "idLocalidad": "82133150",
     "nombreProvincia": "Santa Fe",
     "idProvincia": "82"
   },
@@ -22722,12 +20016,6 @@
     "idProvincia": "82"
   },
   {
-    "nombreLocalidad": "Villa Adelina",
-    "idLocalidad": "8206319002",
-    "nombreProvincia": "Santa Fe",
-    "idProvincia": "82"
-  },
-  {
     "nombreLocalidad": "Villa Amelia",
     "idLocalidad": "82084290",
     "nombreProvincia": "Santa Fe",
@@ -22760,12 +20048,6 @@
   {
     "nombreLocalidad": "Villa Eloísa",
     "idLocalidad": "82056150",
-    "nombreProvincia": "Santa Fe",
-    "idProvincia": "82"
-  },
-  {
-    "nombreLocalidad": "Villa Elvira",
-    "idLocalidad": "82119150",
     "nombreProvincia": "Santa Fe",
     "idProvincia": "82"
   },
@@ -22820,12 +20102,6 @@
   {
     "nombreLocalidad": "Villa Ocampo",
     "idLocalidad": "82049230",
-    "nombreProvincia": "Santa Fe",
-    "idProvincia": "82"
-  },
-  {
-    "nombreLocalidad": "Villa San José",
-    "idLocalidad": "82021410",
     "nombreProvincia": "Santa Fe",
     "idProvincia": "82"
   },
@@ -23004,12 +20280,6 @@
     "idProvincia": "86"
   },
   {
-    "nombreLocalidad": "Choya",
-    "idLocalidad": "86063020",
-    "nombreProvincia": "Santiago del Estero",
-    "idProvincia": "86"
-  },
-  {
     "nombreLocalidad": "Clodomira",
     "idLocalidad": "86035060",
     "nombreProvincia": "Santiago del Estero",
@@ -23094,18 +20364,6 @@
     "idProvincia": "86"
   },
   {
-    "nombreLocalidad": "El Charco",
-    "idLocalidad": "86147040",
-    "nombreProvincia": "Santiago del Estero",
-    "idProvincia": "86"
-  },
-  {
-    "nombreLocalidad": "El Colorado",
-    "idLocalidad": "86098010",
-    "nombreProvincia": "Santiago del Estero",
-    "idProvincia": "86"
-  },
-  {
     "nombreLocalidad": "El Crucero",
     "idLocalidad": "86070040",
     "nombreProvincia": "Santiago del Estero",
@@ -23126,24 +20384,6 @@
   {
     "nombreLocalidad": "El Mojón",
     "idLocalidad": "86049020",
-    "nombreProvincia": "Santiago del Estero",
-    "idProvincia": "86"
-  },
-  {
-    "nombreLocalidad": "El Mojón",
-    "idLocalidad": "86133010",
-    "nombreProvincia": "Santiago del Estero",
-    "idProvincia": "86"
-  },
-  {
-    "nombreLocalidad": "El Rincón",
-    "idLocalidad": "86091030",
-    "nombreProvincia": "Santiago del Estero",
-    "idProvincia": "86"
-  },
-  {
-    "nombreLocalidad": "El Sauzal",
-    "idLocalidad": "86147120",
     "nombreProvincia": "Santiago del Estero",
     "idProvincia": "86"
   },
@@ -23214,12 +20454,6 @@
     "idProvincia": "86"
   },
   {
-    "nombreLocalidad": "Gramilla",
-    "idLocalidad": "86147050",
-    "nombreProvincia": "Santiago del Estero",
-    "idProvincia": "86"
-  },
-  {
     "nombreLocalidad": "Guardia Escolta",
     "idLocalidad": "86042040",
     "nombreProvincia": "Santiago del Estero",
@@ -23238,20 +20472,8 @@
     "idProvincia": "86"
   },
   {
-    "nombreLocalidad": "Herrera",
-    "idLocalidad": "86028020",
-    "nombreProvincia": "Santiago del Estero",
-    "idProvincia": "86"
-  },
-  {
     "nombreLocalidad": "Huyamampa",
     "idLocalidad": "86035070",
-    "nombreProvincia": "Santiago del Estero",
-    "idProvincia": "86"
-  },
-  {
-    "nombreLocalidad": "Icaño",
-    "idLocalidad": "86028030",
     "nombreProvincia": "Santiago del Estero",
     "idProvincia": "86"
   },
@@ -23270,12 +20492,6 @@
   {
     "nombreLocalidad": "Isca Yacu Semaul",
     "idLocalidad": "86091060",
-    "nombreProvincia": "Santiago del Estero",
-    "idProvincia": "86"
-  },
-  {
-    "nombreLocalidad": "La Aurora",
-    "idLocalidad": "86035080",
     "nombreProvincia": "Santiago del Estero",
     "idProvincia": "86"
   },
@@ -23316,12 +20532,6 @@
     "idProvincia": "86"
   },
   {
-    "nombreLocalidad": "Laprida",
-    "idLocalidad": "86063050",
-    "nombreProvincia": "Santiago del Estero",
-    "idProvincia": "86"
-  },
-  {
     "nombreLocalidad": "Las Delicias",
     "idLocalidad": "86133020",
     "nombreProvincia": "Santiago del Estero",
@@ -23330,18 +20540,6 @@
   {
     "nombreLocalidad": "Las Tinajas",
     "idLocalidad": "86119050",
-    "nombreProvincia": "Santiago del Estero",
-    "idProvincia": "86"
-  },
-  {
-    "nombreLocalidad": "Lavalle",
-    "idLocalidad": "86084010",
-    "nombreProvincia": "Santiago del Estero",
-    "idProvincia": "86"
-  },
-  {
-    "nombreLocalidad": "Libertad",
-    "idLocalidad": "86119060",
     "nombreProvincia": "Santiago del Estero",
     "idProvincia": "86"
   },
@@ -23574,50 +20772,8 @@
     "idProvincia": "86"
   },
   {
-    "nombreLocalidad": "San Pedro",
-    "idLocalidad": "86049090",
-    "nombreProvincia": "Santiago del Estero",
-    "idProvincia": "86"
-  },
-  {
-    "nombreLocalidad": "San Pedro",
-    "idLocalidad": "86063070",
-    "nombreProvincia": "Santiago del Estero",
-    "idProvincia": "86"
-  },
-  {
-    "nombreLocalidad": "San Pedro",
-    "idLocalidad": "86084020",
-    "nombreProvincia": "Santiago del Estero",
-    "idProvincia": "86"
-  },
-  {
-    "nombreLocalidad": "San Pedro",
-    "idLocalidad": "86091080",
-    "nombreProvincia": "Santiago del Estero",
-    "idProvincia": "86"
-  },
-  {
-    "nombreLocalidad": "Santa María",
-    "idLocalidad": "86049100",
-    "nombreProvincia": "Santiago del Estero",
-    "idProvincia": "86"
-  },
-  {
     "nombreLocalidad": "Santiago del Estero",
     "idLocalidad": "86049110",
-    "nombreProvincia": "Santiago del Estero",
-    "idProvincia": "86"
-  },
-  {
-    "nombreLocalidad": "Santo Domingo",
-    "idLocalidad": "86133060",
-    "nombreProvincia": "Santiago del Estero",
-    "idProvincia": "86"
-  },
-  {
-    "nombreLocalidad": "Santos Lugares",
-    "idLocalidad": "86014050",
     "nombreProvincia": "Santiago del Estero",
     "idProvincia": "86"
   },
@@ -23630,12 +20786,6 @@
   {
     "nombreLocalidad": "Simbol",
     "idLocalidad": "86189030",
-    "nombreProvincia": "Santiago del Estero",
-    "idProvincia": "86"
-  },
-  {
-    "nombreLocalidad": "Simbolar",
-    "idLocalidad": "86035130",
     "nombreProvincia": "Santiago del Estero",
     "idProvincia": "86"
   },
@@ -23666,12 +20816,6 @@
   {
     "nombreLocalidad": "Suncho Corral",
     "idLocalidad": "86098040",
-    "nombreProvincia": "Santiago del Estero",
-    "idProvincia": "86"
-  },
-  {
-    "nombreLocalidad": "Tapso",
-    "idLocalidad": "86063080",
     "nombreProvincia": "Santiago del Estero",
     "idProvincia": "86"
   },
@@ -23736,12 +20880,6 @@
     "idProvincia": "86"
   },
   {
-    "nombreLocalidad": "Villa General Mitre",
-    "idLocalidad": "86007040",
-    "nombreProvincia": "Santiago del Estero",
-    "idProvincia": "86"
-  },
-  {
     "nombreLocalidad": "Villa Giménez",
     "idLocalidad": "86147140",
     "nombreProvincia": "Santiago del Estero",
@@ -23756,12 +20894,6 @@
   {
     "nombreLocalidad": "Villa Mailín",
     "idLocalidad": "86028060",
-    "nombreProvincia": "Santiago del Estero",
-    "idProvincia": "86"
-  },
-  {
-    "nombreLocalidad": "Villa Nueva",
-    "idLocalidad": "86175040",
     "nombreProvincia": "Santiago del Estero",
     "idProvincia": "86"
   },
@@ -23792,12 +20924,6 @@
   {
     "nombreLocalidad": "Villa Silípica",
     "idLocalidad": "86189050",
-    "nombreProvincia": "Santiago del Estero",
-    "idProvincia": "86"
-  },
-  {
-    "nombreLocalidad": "Villa Unión",
-    "idLocalidad": "86112010",
     "nombreProvincia": "Santiago del Estero",
     "idProvincia": "86"
   },
@@ -23874,32 +21000,8 @@
     "idProvincia": "90"
   },
   {
-    "nombreLocalidad": "Aguilares",
-    "idLocalidad": "90077010",
-    "nombreProvincia": "Tucumán",
-    "idProvincia": "90"
-  },
-  {
     "nombreLocalidad": "Alderetes",
     "idLocalidad": "9001401001",
-    "nombreProvincia": "Tucumán",
-    "idProvincia": "90"
-  },
-  {
-    "nombreLocalidad": "Alderetes",
-    "idLocalidad": "90014010",
-    "nombreProvincia": "Tucumán",
-    "idProvincia": "90"
-  },
-  {
-    "nombreLocalidad": "Alpachiri",
-    "idLocalidad": "90021010",
-    "nombreProvincia": "Tucumán",
-    "idProvincia": "90"
-  },
-  {
-    "nombreLocalidad": "Alto Verde",
-    "idLocalidad": "90021020",
     "nombreProvincia": "Tucumán",
     "idProvincia": "90"
   },
@@ -23916,20 +21018,8 @@
     "idProvincia": "90"
   },
   {
-    "nombreLocalidad": "Atahona",
-    "idLocalidad": "90091010",
-    "nombreProvincia": "Tucumán",
-    "idProvincia": "90"
-  },
-  {
     "nombreLocalidad": "Banda del Río Salí",
     "idLocalidad": "9001402001",
-    "nombreProvincia": "Tucumán",
-    "idProvincia": "90"
-  },
-  {
-    "nombreLocalidad": "Banda del Río Salí",
-    "idLocalidad": "90014020",
     "nombreProvincia": "Tucumán",
     "idProvincia": "90"
   },
@@ -23960,12 +21050,6 @@
   {
     "nombreLocalidad": "Barrio San Jorge",
     "idLocalidad": "90007010",
-    "nombreProvincia": "Tucumán",
-    "idProvincia": "90"
-  },
-  {
-    "nombreLocalidad": "Bella Vista",
-    "idLocalidad": "90056010",
     "nombreProvincia": "Tucumán",
     "idProvincia": "90"
   },
@@ -24006,12 +21090,6 @@
     "idProvincia": "90"
   },
   {
-    "nombreLocalidad": "Concepción",
-    "idLocalidad": "90021050",
-    "nombreProvincia": "Tucumán",
-    "idProvincia": "90"
-  },
-  {
     "nombreLocalidad": "Delfín Gallo",
     "idLocalidad": "90014060",
     "nombreProvincia": "Tucumán",
@@ -24048,26 +21126,8 @@
     "idProvincia": "90"
   },
   {
-    "nombreLocalidad": "El Manantial",
-    "idLocalidad": "90063020",
-    "nombreProvincia": "Tucumán",
-    "idProvincia": "90"
-  },
-  {
     "nombreLocalidad": "El Mollar",
     "idLocalidad": "90098030",
-    "nombreProvincia": "Tucumán",
-    "idProvincia": "90"
-  },
-  {
-    "nombreLocalidad": "El Naranjo",
-    "idLocalidad": "90007030",
-    "nombreProvincia": "Tucumán",
-    "idProvincia": "90"
-  },
-  {
-    "nombreLocalidad": "El Paraíso",
-    "idLocalidad": "9001406001",
     "nombreProvincia": "Tucumán",
     "idProvincia": "90"
   },
@@ -24114,12 +21174,6 @@
     "idProvincia": "90"
   },
   {
-    "nombreLocalidad": "Famaillá",
-    "idLocalidad": "90028030",
-    "nombreProvincia": "Tucumán",
-    "idProvincia": "90"
-  },
-  {
     "nombreLocalidad": "Garmendia",
     "idLocalidad": "90007040",
     "nombreProvincia": "Tucumán",
@@ -24162,26 +21216,8 @@
     "idProvincia": "90"
   },
   {
-    "nombreLocalidad": "Juan Bautista Alberdi",
-    "idLocalidad": "90042010",
-    "nombreProvincia": "Tucumán",
-    "idProvincia": "90"
-  },
-  {
     "nombreLocalidad": "La Cocha",
     "idLocalidad": "90049010",
-    "nombreProvincia": "Tucumán",
-    "idProvincia": "90"
-  },
-  {
-    "nombreLocalidad": "La Florida",
-    "idLocalidad": "9001408002",
-    "nombreProvincia": "Tucumán",
-    "idProvincia": "90"
-  },
-  {
-    "nombreLocalidad": "La Florida",
-    "idLocalidad": "90014080",
     "nombreProvincia": "Tucumán",
     "idProvincia": "90"
   },
@@ -24194,18 +21230,6 @@
   {
     "nombreLocalidad": "La Reducción",
     "idLocalidad": "90063040",
-    "nombreProvincia": "Tucumán",
-    "idProvincia": "90"
-  },
-  {
-    "nombreLocalidad": "La Trinidad",
-    "idLocalidad": "90021070",
-    "nombreProvincia": "Tucumán",
-    "idProvincia": "90"
-  },
-  {
-    "nombreLocalidad": "Lamadrid",
-    "idLocalidad": "90035020",
     "nombreProvincia": "Tucumán",
     "idProvincia": "90"
   },
@@ -24236,12 +21260,6 @@
   {
     "nombreLocalidad": "Los Ralos",
     "idLocalidad": "90014100",
-    "nombreProvincia": "Tucumán",
-    "idProvincia": "90"
-  },
-  {
-    "nombreLocalidad": "Los Sarmientos",
-    "idLocalidad": "90077020",
     "nombreProvincia": "Tucumán",
     "idProvincia": "90"
   },
@@ -24288,12 +21306,6 @@
     "idProvincia": "90"
   },
   {
-    "nombreLocalidad": "Pacará",
-    "idLocalidad": "90014110",
-    "nombreProvincia": "Tucumán",
-    "idProvincia": "90"
-  },
-  {
     "nombreLocalidad": "Piedrabuena",
     "idLocalidad": "90007070",
     "nombreProvincia": "Tucumán",
@@ -24308,18 +21320,6 @@
   {
     "nombreLocalidad": "Ranchillos",
     "idLocalidad": "90014120",
-    "nombreProvincia": "Tucumán",
-    "idProvincia": "90"
-  },
-  {
-    "nombreLocalidad": "Río Chico",
-    "idLocalidad": "90077030",
-    "nombreProvincia": "Tucumán",
-    "idProvincia": "90"
-  },
-  {
-    "nombreLocalidad": "Río Colorado",
-    "idLocalidad": "90056060",
     "nombreProvincia": "Tucumán",
     "idProvincia": "90"
   },
@@ -24350,24 +21350,6 @@
   {
     "nombreLocalidad": "San Pedro de Colalao",
     "idLocalidad": "90112020",
-    "nombreProvincia": "Tucumán",
-    "idProvincia": "90"
-  },
-  {
-    "nombreLocalidad": "Santa Ana",
-    "idLocalidad": "90077040",
-    "nombreProvincia": "Tucumán",
-    "idProvincia": "90"
-  },
-  {
-    "nombreLocalidad": "Santa Cruz",
-    "idLocalidad": "90091040",
-    "nombreProvincia": "Tucumán",
-    "idProvincia": "90"
-  },
-  {
-    "nombreLocalidad": "Santa Lucía",
-    "idLocalidad": "90070060",
     "nombreProvincia": "Tucumán",
     "idProvincia": "90"
   },
@@ -24506,12 +21488,6 @@
   {
     "nombreLocalidad": "Yerba Buena - Marcos Paz",
     "idLocalidad": "9011903002",
-    "nombreProvincia": "Tucumán",
-    "idProvincia": "90"
-  },
-  {
-    "nombreLocalidad": "Yerba Buena - Marcos Paz",
-    "idLocalidad": "90119030",
     "nombreProvincia": "Tucumán",
     "idProvincia": "90"
   }

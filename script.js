@@ -9,7 +9,9 @@ async function fetchData() {
     try {
         const responseProv = await axios.get(urlProv);
         const provinces = responseProv.data.provincias;
-        const allLocalidades = [];
+
+        // Usamos un Map para asegurar que cada localidad sea única
+        const allLocalidadesMap = new Map();
 
         for (const province of provinces) {
             try {
@@ -21,15 +23,22 @@ async function fetchData() {
                     const idLocalidad = localidad.id;
                     const nombreProvincia = localidad.provincia.nombre;
                     const idProvincia = localidad.provincia.id;
-                    const localidadData = { nombreLocalidad, idLocalidad, nombreProvincia, idProvincia };
 
-                    // Guardar la localidad en el array total
-                    allLocalidades.push(localidadData);
+                    // Comprobamos si ya existe la localidad
+                    if (!allLocalidadesMap.has(nombreLocalidad)) {
+                        const localidadData = { nombreLocalidad, idLocalidad, nombreProvincia, idProvincia };
+
+                        // Guardar la localidad en el Map
+                        allLocalidadesMap.set(nombreLocalidad, localidadData);
+                    }
                 });
             } catch (error) {
                 console.log(`Error al obtener localidades de la provincia ${province.nombre}: ${error}`);
             }
         }
+
+        // Convertimos el Map a array para poder escribir los datos en JSON y Excel
+        const allLocalidades = Array.from(allLocalidadesMap.values());
 
         // Escribir en un archivo JSON
         fs.writeFileSync('localidades.json', JSON.stringify(allLocalidades, null, 2));
